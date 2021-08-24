@@ -71,7 +71,7 @@ L'escalier Sud fini brutalement, quiconque ne fera pas attention prendra 1d6 de 
 
 L'escalier Nord mène à un couloir circulaire. Ce couloir est éclairé par des torches dont émanent une lueur verdâtre.
 
-![cité naine](../../../Resources/cité naine.png)
+![cité naine](../../../Resources/cité_naine.png)
 
 ### La forge
 
