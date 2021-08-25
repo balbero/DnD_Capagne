@@ -96,7 +96,7 @@ Après une demie journée de marche, alors que la caravane avance dans une ravin
 -   **DD20** [perception auditive]: les adeptes se mettent en place. Dans l'empressement certain vont faire dévaler des gravillons._  
     Si rien n'est perçu, alors le combat commencera par un carreau tiré sur un garde_.
 
-![embuscade](../../../Resources/embuscade.png)
+![embuscade](../../Resources/embuscade.png)
 
 Il y a 6 fanatiques, deux en hauteur à l'arbalète, 4 en bas en corps à corps  
 Le combat se termine par la fuite du dernier fanatique. Les aventurier auront le choix de suivre le fanatique ou d'aider à déblayer le rocher devant la caravane.
@@ -147,7 +147,7 @@ Lors de leur entré dans la mine, le nain sent un danger :
 
 Toutes les torche sont éteintes, même les nyctalope n'y voient rien
 
-![mine 1er lvl](../../../Resources/mine_1er_lvl.png)
+![mine 1er lvl](../../Resources/mine_1er_lvl.png)
 
 Le tunnel principal mène à une salle gigantesque. Au sol, un system de rail permettant l'extraction de wagonet.
 _Il a fallu quelques mois déjà pour creuser cette salle!_
@@ -299,7 +299,7 @@ Rien le tunnel est effondré
 4 zombies  
 1 goule  
 
-![mine 2nd lvl](../../../Resources/mine_2nd_lvl.png)
+![mine 2nd lvl](../../Resources/mine_2nd_lvl.png)
 
 **Troisième niveau**
 
@@ -322,14 +322,14 @@ Sur les murs, on distingue des fresques sculptées.
 
 Au dessus, de la première l'inscription suivante:
 
-![Moradin, le forgeur d'âme](../../../Resources/Moradin_forgeur_ame.png)
+![Moradin, le forgeur d'âme](../../Resources/Moradin_forgeur_ame.png)
 Tr-> Moradin, le forgeur d'âme
 
 La seconde représente un nain chassé par les siens, qui revint sous la forme d'une liche.
 
 Au dessus est inscrit:
 
-![Bamnyl le bannis](../../../Resources/Bramnyl_banni.png)
+![Bamnyl le bannis](../../Resources/Bramnyl_banni.png)
 
 Tr -> Bramnyl le bannis
 
