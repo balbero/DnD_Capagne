@@ -1,0 +1,2 @@
+Autrefois cité commerciale, Everton n'est aujourd'hui qu'une illusion entretenue afin de camoufler l'existance d'un lieux magique se trouvant sous la ville. Ce lieu appelé *Temple de la Sauvegarde* permet de préserver fermé l'endroit ou se trouve enfermé un artéfact maléfique.  
+L'illusion semble tenir et les passant ne se doute de rien.
