@@ -43,8 +43,8 @@ propose des enchentements d'armure ou d'armes, des parchmins de sorts de tous ni
 ## L'étage des voyageurs
 
 A cet étage, le flan de la montagne est creusé, laissant apparaitre un promontoire d'où
-des [Serpentides](../4-%20Special/Serpentides.md) atterrissent et décollent.
-Certains [Serpentides](../4-%20Special/Serpentides.md) transportent des biens, d'autres
+des [Serpentides](4-Special/Serpentides.md) atterrissent et décollent.
+Certains [Serpentides](4-Special/Serpentides.md) transportent des biens, d'autres
 sont richement décorés, d'autre encore, ne comporte que des selles afin de s'atteler dessus.
 
 Cet endroit fourmille de personnes, entre les voyageurs et les manouvriers, les atteleurs.
@@ -59,7 +59,7 @@ par Ennenn (Gnome, masculin) et un ancien compagnon d'aventure Farion "Ydus" Ner
 -   [Au cochon qui dort](1-Lieux/1-Auberges/Au_cochon_qui_dort.md), est un établissement
 prestigieux tenu par Runak (Demi-orque, feminin)
 
-Une boutique [Ryan Hair](2-Commerces/Ryan_hair_coiffure.md), propose à qui en aurait besoin une coupe de cheveux avant le décolage.
+Une boutique [Ryan Hair](1-Lieux/2-Commerces/Ryan_hair_coiffure.md), propose à qui en aurait besoin une coupe de cheveux avant le décolage.
 
 
 ## L'étage des pèlerins
@@ -88,9 +88,9 @@ familiale.
 - plusieurs demande de recherche d'emploi: aide pour le forgeron, aide pour le bibliothécaire, aide
 pour l'alchimiste.
 - des publicité en tout genre:
-    - pour des déménageurs, [Les Gardiens de l'Ordre](2-Commerces/Gardien_Ordre.md)
-    - pour un vendeur de nourriture, [La tarte à la tomate](2-Commerces/Tarte_Tomate.md)
-    - pour un coiffeur, [Ryan Hair](2-Commerces/Ryan_hair_coiffure.md) disponible sur le promontoire
+    - pour des déménageurs, [Les Gardiens de l'Ordre](1-Lieux/2-Commerces/Gardien_Ordre.md)
+    - pour un vendeur de nourriture, [La tarte à la tomate](1-Lieux/2-Commerces/Tarte_Tomate.md)
+    - pour un coiffeur, [Ryan Hair](1-Lieux/2-Commerces/Ryan_hair_coiffure.md) disponible sur le promontoire
      d'Astoria.
 
 La composition du conseil :  
