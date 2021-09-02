@@ -43,29 +43,44 @@ Si les aventurier décident de demander au voisinage, ils devront convaincre les
 necessaire d'accéder au toit de leur maison. Ils ont donc le choix entre la persuasion et l'intimidation:
 [jet de persuasion]
 - 15: la personne acceptera de les aider et les laissera entrer dans la maison.
---> si Fumble, la personne criera à la garde et dira à la milice que les aventurier sont là pour essayer 
+--> si Fumble, la personne criera à la garde et dira à la milice que les aventuriers sont là pour essayer 
 de le voler puisqu'il demande à entre chez elle.
 
 [jet d'intimidation]
 - 10: la personne laissera entrer les aventuriers de peur. Attendra que ceux-ci soient occupé à leur affaire 
 pour appeler la milice.
 
-:warning: si la milice est appelée, un combat commencera si les aventuriers ne réussisent pas à convaicre les 
-gardes de leurs intentions. 
+:warning: si la [milice](###la-milice) est appelée, un combat commencera si les aventuriers ne réussisent pas 
+à convaicre les gardes de leurs intentions. 
 
 ### un moyen non conventionnel
+Deux possibilités s'offrent aux aventuriers:
+- Utiliser une corde et escalader
+- Trouver un endroit permettant de grimper simplement.
 
-Si les aventurier decide d'utiliser une cordre pour grimper, il leur faudra faire attention à ne pas 
+#### Une corde qu'on se pende
+Si les aventuriers decident d'utiliser une cordre pour grimper, il leur faudra faire attention à ne pas 
 eveiller les soupçons. Certe ils sont dans une ruelle, mais des personne de la milice de quartier patrouille, 
-sans coompter que les maisons sont habitées.
+sans compter que les maisons sont habitées.
+
 [jet de Discrétion]
-- 15: la milice ne sera pas alerté par les agissements directes des aventuriers
-- 20: les personnes vivants dans les maisons ne sauront même pas que les aventuriers sont là.
+- 10: la milice ne sera pas alerté par les agissements directes des aventuriers
+- 15: les personnes vivants dans les maisons ne sauront même pas que les aventuriers sont là.
 
- :warning: si la milice est alerté, un combat commencera si les aventuriers ne réussisent pas à convaicre les 
-gardes de leurs intentions. 
+:warning: si la [milice](#la-milice) est alerté, un combat commencera si les aventuriers ne réussisent pas à 
+convaicre les gardes de leurs intentions. 
 
-#### La milice
+#### Une échelle c'est plus simple
+Si les aventuriers décident de trouver un moyen plus simple, il leur faudra chercher dans les rues avoisinantes.  
+Après quelques minutes, ils trouveront une échelle posée contre une façade aveugle permettant d'acceder au toit.
+Voici le chemin qu'il leur faudra alors parcourir sur les toits:  
+
+
+
+
+
+
+### La milice
 
 La milice de quartier est un ramassi de voleur et grosse brute qui font reigner la terreur dans le quartier.
 Les personnes de la milice sont sous les ordre de la vieille Ritchel, si les aventuriers prononcent son nom 
@@ -89,4 +104,11 @@ Type:
 - [Capitaine](https://www.dndbeyond.com/monsters/bandit-captain) 20% (1 unique si tiré)
 - [Bandit](https://www.dndbeyond.com/monsters/bandit) 50%
 
-### Les toits
+## Les toits
+Astoria étant situé dans une énorme caverne, il n'est pas nécessaire de posséder un toit pentu, car en effet
+il ne pleut pas. Les tois sont par conséquent plat, et servent principalement de débaras. Il ne sera pas rare 
+de créser des caisses de bien utilitaires  
+[jet MD : Dé 10]
+- 6 : des armes sont trouvés : épées courte, dague, cimetère.
+- 8 : des armure sont trouvées : cuir clouté, maille.
+- 10: une bourse de 100 po et une robe somptueuse (+1) est trouvée.
