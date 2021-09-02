@@ -159,7 +159,7 @@ Selon la race du chat, la maladie s'incube entre 3 à 6 jours. Voici les princip
 - Le chat semble se mordre puis se gratter au sang
 - Mort du chat
 
-Sous le livre, [une lettre du conseil](../../../3- Indices/Lettre_conseil_Joddwimir.md) barré par un NON en lettre de sang 
+Sous le livre, [une lettre du conseil](../../3-Indices/Lettre_conseil_Joddwimir.md) barré par un NON en lettre de sang 
 suivit de "je la sauverais".
 
 
