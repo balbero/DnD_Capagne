@@ -55,8 +55,8 @@ pour appeler la milice.
 
 ### un moyen non conventionnel
 Deux possibilités s'offrent aux aventuriers:
-- Utiliser une corde et escalader
-- Trouver un endroit permettant de grimper simplement.
+- Utiliser [une corde](####une-corde-qu-on-se-pende) et escalader
+- Trouver un endroit permettant de grimper [simplement](####une-échelle-c-estt-plus-simple).
 
 #### Une corde qu'on se pende
 Si les aventuriers decident d'utiliser une cordre pour grimper, il leur faudra faire attention à ne pas 
@@ -74,12 +74,11 @@ convaicre les gardes de leurs intentions.
 Si les aventuriers décident de trouver un moyen plus simple, il leur faudra chercher dans les rues avoisinantes.  
 Après quelques minutes, ils trouveront une échelle posée contre une façade aveugle permettant d'acceder au toit.
 Voici le chemin qu'il leur faudra alors parcourir sur les toits:  
-
-
-
-
-
-
+[Carte Joueur](images/carte_toit_joueur.png)  
+<details> 
+	<summary> Carte MAitre du jeu </summary>   
+	[Carte MJ](images/carte_toit_MJ.png)  
+</details>  
 ### La milice
 
 La milice de quartier est un ramassi de voleur et grosse brute qui font reigner la terreur dans le quartier.
