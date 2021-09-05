@@ -35,7 +35,7 @@ Le père semble avoir peur, il regarde sens cesse dehors, comme s'il avait peur 
 l'observe.
 
 [jet de persuasion : 15]
-- *succss* : La famille a reçu un [courrier](../../3-Indices/lettre_menace_hautecoline.md) récemment. 
+- *succss* : La famille a reçu un [courrier](../../3-Indices/lettre_menace.md) récemment. 
 - *fail* : "Je regarde dehors car j'espère appercevoir ma fille"
 
 "Mais il y a le vieux Viktor. Celui qui vit derrière les barières. Il est étrange. 
@@ -52,7 +52,7 @@ disparition, "j'aurais du garder un oeil sur lui!".
 La colère qu'il semble se diriger contre lui-même cache autre chose.
 
 [jet de persuasion : 15]
-- succss : La famille a reçu un [courrier](../../3-Indices/lettre_menace_lorcan.md) récemment. 
+- succss : La famille a reçu un [courrier](../../3-Indices/lettre_menace.md) récemment. 
 - fail : "Je me sens coupable, mon devoir est de veiller sur lui, et j'ai echoué. Cela ne vous 
 suffit pas!"
 
@@ -61,7 +61,7 @@ suffit pas!"
 ## La famille de Taria
 Les aventuriers seront acceuilli par la nourice, Delia. Elle est paniquée. "Monsieur m'a demander 
 de garder sa princesse, et sa princesse n'est pas rentrée. Ma petite Taria, où es-tu?".
-Dans ses pleures, elle apportera la [lettre](../../3-Indices/lettre_menace_taria.md) de menace reçu une semaine plus tôt.
+Dans ses pleures, elle apportera la [lettre](../../3-Indices/lettre_menace.md) de menace reçu une semaine plus tôt.
 
 "Taria s'est pleinte plusieur fois que le vieux Viktor l'ai disputé car les enfants jouaient 
 près de sa propriété. Je lui ai répondu de ne plus jouer par là-bas et ce n'était qu'un vieil homme, 
