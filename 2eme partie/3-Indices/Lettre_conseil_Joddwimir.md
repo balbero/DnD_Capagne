@@ -1,7 +1,7 @@
 
 
 
-A Maitre Joddwimir,
+A Maitre [Joddwimir](../1-Astoria/2-Personnages/Joddwimir.md),
 
 Vos conclusions ont été entendues et serviront au mieu, nous en sommes sur, 
 les chercheur Tabaxis.  

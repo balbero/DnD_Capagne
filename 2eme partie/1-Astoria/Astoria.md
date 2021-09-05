@@ -82,9 +82,13 @@ Sur le panneau on pourra trouver:
 - une demande concernant un chat perdu réalisée par [Mme Ritchel](3-Quetes/Chat_perdu.md), habitante
 dans les bas quartier de l'étage des voyageurs.
 - des demandes de garde d'enfant.
-- une demande de recherche de personne disparue. [Lorcan](3-Quetes/lorcan.md) 12ans humain a été vu
-pour la dernière fois il y a deux jours, dans la cours des liberté. La récompense proposer est l'arc
-familiale.
+- une demande de recherche de personnes disparues. Lorcan, Camelia Hautecoline et Taria Joddwimir sont 
+portés disparu. 
+[Lorcan](3-Quetes/lorcan.md) 12ans humain a été vu pour la dernière fois il y a deux jours, dans la cours 
+des libertés jouant avec Camélia et Taria. La récompense proposée est :
+	- [l'arc familiale de Lorcan](4-Special/Arc_familial_Lorcan.md).
+	- 500 po provenant des caisses de la famille [Hautecoline](2-Personnages/Famille_hautecoline.md)
+	- Des livres sur la médecine provenant de la bibliothèque personnelle de [Maitre Joddwimir](2-Personnages/Joddwimir.md) 
 - plusieurs demande de recherche d'emploi: aide pour le forgeron, aide pour le bibliothécaire, aide
 pour l'alchimiste.
 - des publicité en tout genre:
