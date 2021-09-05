@@ -16,10 +16,10 @@ Il est possible de bénéficier des 5 services suivants dans cet établissement 
 Dans cet établissement viennent souvent des nobles, de plus la proximité de la maison d'un héros d'antan, amène celui-ci à y passer parfois pour raconter ses aventures.
 
 ## Le Rez-de-chausée
-[Rez de chaussée](../../3-Quetes/images/Au_cochon_qui_rit.png)  
+[Rez de chaussée](../../3-Quetes/images/au_cochon_qui_rit.png)  
 
 ## le premier étage
-[1er étage](../../3-Quetes/images/Au_cochon_qui_rit_1er.png)  
+[1er étage](../../3-Quetes/images/au_cochon_qui_rit_1er.png)  
 
 ## le deuxième étage
-[2nd étage](../../3-Quetes/images/Au_cochon_qui_rit_2nd.png)  
+[2nd étage](../../3-Quetes/images/au_cochon_qui_rit_2nd.png)  
