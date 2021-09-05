@@ -77,6 +77,8 @@ savent ce qu'il s'y cache."
 Le vieux Viktor est juste un vieil humain, désireux de vivre en paix. Bien qu'il ne supporte pas leur bruit,
 il est préoccupé de la disparition des enfants. Il indiquera les avoir vu jouer dans la partie Nord-Est de 
 la place.
+Les lettres envoyé aux familles sont bien de lui, mais elles n'avaient que pour but d'effrayer. Il est vieux, 
+comment aurait-il pu faire du mal à des enfants. 
 
 
 # La caverne.
