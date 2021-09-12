@@ -49,7 +49,8 @@ Les adolescent disparaissent à nouveau.
 
 ## le premier étage
 
-[premier étage](../3-Indices/tour_1er_etage.player.png)
+[premier étage](../3-Indices/tour_1er_etage.player.png)  
+
 Les restes d'une bataille sont encore visible, les lits sont éventrés comme si quelque chose de lourd 
 s'était abattu sur eux, la table ne tient que sur trois pieds.
 
@@ -91,10 +92,10 @@ plus cauchemardesque.
 Tout joueur qui échoue le test est pris d'une peur irrépressible.
 ```
 
-```html
+```php
 [jet de Survie: 12]
-Les aventuriers sont devant une [banshee](https://www.aidedd.org/dnd/monstres.php?vf=banshie)
-```
+Les aventuriers sont devant une ``` [`banshee`](https://www.aidedd.org/dnd/monstres.php?vf=banshie)
+
 
 Deux choix s'offrent alors auw aventuriers:
 - [Aider Clara](#aidee-une-defunte) à trouver la paix dans la mort.
