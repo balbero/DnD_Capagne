@@ -11,7 +11,7 @@ En se dirigeant vers la tour de garde, les aventuriers repèreront des traces de
 :warning: Ces traces n'apparaissent pas de jours.  
 
 ```
-[jet de survie : 15] 
+[jet de survie : 15]  
 Ces traces correspondent à deux individus allongé dans l'herbe se 
 dirigeant vers la tour.  
 ```
@@ -91,11 +91,10 @@ La créature qui se tiens devant les aventuriers n'est pas la Clara des vision, 
 plus cauchemardesque.
 Tout joueur qui échoue le test est pris d'une peur irrépressible.
 ```
-
-```php
+<pre>
 [jet de Survie: 12]
-Les aventuriers sont devant une ``` [`banshee`](https://www.aidedd.org/dnd/monstres.php?vf=banshie)
-
+Les aventuriers sont devant une <a href="https://www.aidedd.org/dnd/monstres.php?vf=banshie">banshee</a>
+</pre> 
 
 Deux choix s'offrent alors auw aventuriers:
 - [Aider Clara](#aidee-une-defunte) à trouver la paix dans la mort.
@@ -123,8 +122,6 @@ Le jeune garçon se transforme alors en un nuage noir. Son visage se grime de tr
 
 ### Combattre les morts
 Si les aventuriers décident de ne pas aider Clara, elle prendra cela comme un affront et attaquera.
-
-
 
 # Un scépulture
 
