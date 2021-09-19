@@ -10,7 +10,8 @@ Un [jet de perception avec *désavantage* : 10] réveillera les aventuriers.
 En se dirigeant vers la tour de garde, les aventuriers repèreront des traces de passages.  
 :warning: Ces traces n'apparaissent pas de jours.  
 
-```[jet de survie : 15] 
+```
+[jet de survie : 15]  
 Ces traces correspondent à deux individus allongé dans l'herbe se 
 dirigeant vers la tour.  
 ```
@@ -22,7 +23,8 @@ allongés dans l'herbe, une fille et un garçon. Il ne semble pas remarquer les 
 
 A la suitte de cet échange, les deux adolescent disparaissent comme ils étaient apparus.
 
-```[Jet d'histoire: 35 || Lecture des Comptes et légendes] Il y a bien un compte qui raconte 
+```
+[Jet d'histoire: 35 || Lecture des Comptes et légendes] Il y a bien un compte qui raconte 
 l'histoire d'une jeune Clara qui transit d'amour convainquit Hanri le fils d'un fermier à l'aider 
 à entrer dans une tour de garde. Il est raconté que les adolescents réussirent à entrer et que 
 peu de temps après leur entrée, une attaque d'Orcs se fit sur la tour.  
@@ -47,7 +49,8 @@ Les adolescent disparaissent à nouveau.
 
 ## le premier étage
 
-[premier étage](../3-Indices/tour_1er_etage.player.png)
+[premier étage](../3-Indices/tour_1er_etage.player.png)  
+
 Les restes d'une bataille sont encore visible, les lits sont éventrés comme si quelque chose de lourd 
 s'était abattu sur eux, la table ne tient que sur trois pieds.
 
@@ -82,15 +85,16 @@ La vision s'estompe et laisse place aux squelettes de deux personnes et une dagu
 Après quelques seconde, une voix résonne derrière les aventuriers. Cette voix, c'est Clara:
 - Voilà, vous savez tout. Pouvez-vous m'aider ?
 
-```[jet de Sagesse: 13]
+```
+[jet de Sagesse: 13]
 La créature qui se tiens devant les aventuriers n'est pas la Clara des vision, mais quelque chose de 
 plus cauchemardesque.
 Tout joueur qui échoue le test est pris d'une peur irrépressible.
 ```
-
-```[jet de Survie: 12]
-Les aventuriers sont devant une [banshee](https://www.aidedd.org/dnd/monstres.php?vf=banshie)
-```
+<pre>
+[jet de Survie: 12]
+Les aventuriers sont devant une <a href="https://www.aidedd.org/dnd/monstres.php?vf=banshie">banshee</a>
+</pre> 
 
 Deux choix s'offrent alors auw aventuriers:
 - [Aider Clara](#aidee-une-defunte) à trouver la paix dans la mort.
@@ -119,11 +123,10 @@ Le jeune garçon se transforme alors en un nuage noir. Son visage se grime de tr
 ### Combattre les morts
 Si les aventuriers décident de ne pas aider Clara, elle prendra cela comme un affront et attaquera.
 
-
-
 # Un scépulture
 
-```[Jet de Religion: 12] 
+```
+[Jet de Religion: 12] 
 Afin de rendre les jeunes âmes aux Dieux, il faut leur donner une scépulture descentes.
 ```
 

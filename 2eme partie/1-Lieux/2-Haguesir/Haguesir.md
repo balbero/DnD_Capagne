@@ -8,6 +8,9 @@ Haguesir est une charmante bourgade d'un centaine d'habitant. Ce village proopos
 
 Les aventuriers pourront passer par Haguesir à n'importe quel momentt de leur aventure.
 
+Haguesir est tourmenté chaque nuit, une voix s'élève, suivit de pleures. Personne n'ose 
+sortir pour voir ce dont il s'agit et personne n'ose en parler.
+
 # La carte
 
 [la carte](3-Indices/Haguesir.png)
