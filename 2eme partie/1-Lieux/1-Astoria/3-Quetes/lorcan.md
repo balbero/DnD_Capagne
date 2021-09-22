@@ -56,7 +56,7 @@ La colère qu'il semble se diriger contre lui-même cache autre chose.
 - fail : "Je me sens coupable, mon devoir est de veiller sur lui, et j'ai echoué. Cela ne vous 
 suffit pas!"
 
-"Il y a ce Viktor, un vieil homme. il ne supporte pas que les enfants joue près de chez lui."
+"Il y a ce Viktor, un vieil homme. il ne supporte pas que les enfants jouent près de chez lui."
 
 ## La famille de Taria
 Les aventuriers seront acceuilli par la nourice, Delia. Elle est paniquée. "Monsieur m'a demander 

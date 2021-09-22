@@ -1,8 +1,11 @@
-Marlynn est la digne petite fille de Grymnil. Elle a suivit ses enseignements et a perfectionné son art de la forge. Maintenant que son grand père est mort, c'est à elle que revient le feu de la forge et le commerce de son grand-père.
+Marlynn est la digne petite fille de Grymnil. Elle a suivit ses enseignements et a perfectionné 
+son art de la forge. Maintenant que son grand père est mort, c'est à elle que revient le feu de 
+la forge et le commerce de son grand-père.
 
 *Pourquoi?*
 
-Parce que son père a toujours préféré le maniement des armes à leur fabrication. Il est maintenant le responsable de la garde au niveau de l'entrée de la ville.
+Parce que son père a toujours préféré le maniement des armes à leur fabrication. Il est maintenant 
+le responsable de la garde au niveau de l'entrée de la ville.
 
 Marlynn fabrique aussi bien des armes que des armures. Toutes ses fabrications sont de Maître (+1).
 

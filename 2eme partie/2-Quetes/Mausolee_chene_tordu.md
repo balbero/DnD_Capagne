@@ -115,10 +115,19 @@ les regards des sentinelles (si elle ne sont pas mortes).
 
 [carte](images/Mausolee_chêne_tordu_int.png)
 
-En entrant dans le mausolée, les aventuriers seront face à deux énormes statues de rois nordique. Le sol et les 
-murs sont fait de marbre blanc. Quatre passage s'offrent aux aventuriers:
+En entrant dans le mausolée, les aventuriers seront face à deux énormes statues de rois nordique dont le noom a 
+été éffacé par le temps et oublié de tous. Le sol et les murs sont fait de marbre blanc. Quatre passage s'offrent 
+aux aventuriers:
 - deux longes les mur du mausolée
 - deux passent au centre du mausolée.
+
+Dans les allées, les stèles sont brisées, les corps ont été fouillée, dépouillés est plus le terme approprié. Les 
+passages sont jonchés de bris de pierres.
+```
+[jet de discretion: 15]
+Les aventuriers sont suffisemment silencieux pour ne pas alerter les bandits ayant fait leur campement dans le fond 
+du mausolée.
+```
 
 Au fond du mausolée, des voix se font entendre. 
 - Le maitre commence à s'impatienter...vous etes sensé être les meilleurs. Ouvrez les sous-terrains ou vous 
@@ -143,4 +152,22 @@ dans le mausolé, le déchiffrement des terme écrit sur les chérubins:
 	- à l'est, il est écrit "assemblé" mais ici j'ai un doute, mon nain antique est un peu rouillé.
 	- à l'ouest, il est écrit "regard".
 ```
+
+<details>
+	<summary>Enigme 1</summary>
+	<p> L'enigme assez simple demande aux aventurier de tourner les statues de manière à ce que les regards des chérubins
+	se 'réunissent' au centre du mausolée.</p>
+	<p> la traduction de la stèle sous le chérubin de l'Est est 'Réuni' </p>
+</details>
+
 - un  total de 259po et 600po de gèmme précieuse et semi-précieuse.
+
+# Le sous-sol
+Une fois les cherubins mis en place, le soleil doré s'anime, créant un escalier qui invite les aventuriers à descendre et 
+d'où une odeur de mort en émane.
+```
+[jet de sauvegarde de constitution: 15]  
+- *success*: Vômissement immédiat, perte de 2pv.  
+- *fail*: Perte de 1 pt de constitution temporaire.
+```
+

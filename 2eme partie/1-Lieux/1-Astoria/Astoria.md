@@ -86,7 +86,7 @@ dans les bas quartier de l'étage des voyageurs.
 portés disparu. 
 [Lorcan](3-Quetes/lorcan.md) 12ans humain a été vu pour la dernière fois il y a deux jours, dans la cours 
 des libertés jouant avec Camélia et Taria. La récompense proposée est :
-	- [l'arc familiale de Lorcan](4-Special/Arc_familial_Lorcan.md).
+	- [Le carquois de chasse](4-Special/Carquoi_de_chasse.md) de la famille.
 	- 500 po provenant des caisses de la famille [Hautecoline](2-Personnages/Famille_hautecoline.md)
 	- Des livres sur la médecine provenant de la bibliothèque personnelle de [Maitre Joddwimir](2-Personnages/Joddwimir.md) 
 - plusieurs demande de recherche d'emploi: aide pour le forgeron, aide pour le bibliothécaire, aide
