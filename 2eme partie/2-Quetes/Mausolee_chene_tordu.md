@@ -11,7 +11,7 @@ dont le tronc forme la base d'un quatre.
     /
    /___
       /
-	|
+	  |
 ```
 
 ```
@@ -147,7 +147,7 @@ arrive à déchiffrer est: "...echange ma vie...richesse et gloire"
 - un journal sur l'invocateur qui retrace les évènements depuis leur arrivée, la construction du fortain, la recherche 
 dans le mausolé, le déchiffrement des terme écrit sur les chérubins: 
 ```
-    - au nord, il est ecrit "centre".
+	- au nord, il est ecrit "centre".
 	- au sud , il est écrit "révèle".
 	- à l'est, il est écrit "assemblé" mais ici j'ai un doute, mon nain antique est un peu rouillé.
 	- à l'ouest, il est écrit "regard".
@@ -165,9 +165,101 @@ dans le mausolé, le déchiffrement des terme écrit sur les chérubins:
 # Le sous-sol
 Une fois les cherubins mis en place, le soleil doré s'anime, créant un escalier qui invite les aventuriers à descendre et 
 d'où une odeur de mort en émane.
-```
-[jet de sauvegarde de constitution: 15]  
+
+[jet de sauvegarde de constitution: 15]
 - *success*: Vômissement immédiat, perte de 2pv.  
 - *fail*: Perte de 1 pt de constitution temporaire.
+
+## Les catacombes
+La première partie du sous-sol est une succession de tunel aménagé où se succède plusieurs alcove dans lesquelles sont
+entreposés des reste squeletique. Certaines alcoves ont une plaque d'identification permettant de connaitre le nom du
+propriétaire de la tombe.
+
+[jet de connaissance: 15]
+- *success*: les noms inscrient appartiennent à des anciennes dynastie naine. Un des noms lisible rappelera quelque chose
+aux aventuriers: Agmir et Olga
+- *fail*: ce ne sont que des noms qui appartiennent à des temps oubliés.
+
+Les catacombes ne sont pas pour autant un lieux de vilégiature. Les aventuriers devront affronter le gardien maudit de ces
+lieux.
+
+**Le gardien des morts**
+
+Un bruit de chaines se fait entendre dans les couloirs de ces Catacombes. Au détour d'une allée, les aventuriers appercevront
+un esprit ayant à sa ceinture un trousseau de clés qui tintinabule reproduisant le bruit de chaine.
+
+Le gardien est un [fantôme](https://www.aidedd.org/dnd/monstres.php?vf=fantome). Son but est de garder les morts et de veiller
+à ce qu'ils ne se relèvent pas. Voyant les aventuriers, il les considèrera comme des morts qui ont quitté leur tombe.
+
+- Veuillez regagner immédiatement votre tombe! criera-t-il avant d'attaquer.
+
+Après le combat, et quelques couloirs plus loins, les aventuriers entreront dans une salle, dans laquelle se situe une tombe
+bien identifiée.
+
+*Ci git Thomas Randerson, le gardien de ces lieux.*
+
+```
+Si un archer a en sa possession de le carquoi de [lorcan](../1-Lieux/1-Astoria/4-Special/Carquois_de_chasse.md), celui-ci murmurera à l'oreille du porteur:
+- Derrière, elle est derrière.
+```
+
+[jet d'investigation: 15]
+- *success*: les aventuriers ressentent un filet d'air provenant de derrière la stèle.
+- *fail*: les aventurers passeront à coté de la stèle sans remarquer quoique ce soit.
+
+Sur la tombe, un [journal](../3-indices/journal_du_gardien.md) est disposé.
+
+## Le jardin
+Derrière la stèle du gardien, se cache un tunel où pendent un enchevètrement de racine. A la suite de ce tunel, les aventuriers
+va se dessiner un méandre de ronces et de planes. les murs formés par ces plantes sont impénétrables.
+*On dirait qu'il va faloir trouver un chemin au travers de ce labyrinthe*
+
+[le labyrinthe](images/Mausolee_labyrinthe.md)
+
+Dans ce labyrinthe, les aventuriers rencontreront un [minautore](https://www.aidedd.org/dnd/monstres.php?vf=squelette-minotaure).
+
+A l'issue du labyrinthe, une salle où filtre la lumière du jour par de petits interstices ouverts dans la terre par de grosses
+racines. Au centre de la pièce, un autel où une gemme rouge est entreposées.
+
+[jet de perception: 15]
+- *success*: Trois sombrelins sont cachés dans la pénombre de la pièce.
+- *fail*: Les trois sombrelins attaquent les aventuriers.
+
+[Sombrelin](https://www.aidedd.org/dnd/monstres.php?vf=sombrelin-aine).
+
+L'Autel est protégé par un dôme d'ennergie empêchant quiconque d'approcher.
+
+Si un archer à le [carquoi de chasse](../1-Lieux/1-Astoria/4-Special/Carquoi_de_chasse.md), le porteur pourra approcher, mais
+uniquement lui. La gemme lui restera innaccessible et le carquoi lui murmurera:
+*Dépose moi près d'elle*
+
+Une fois le carquoi près de la gemme, les deux objets commenceront à léviter. La gemme tournera autour du carquoi avant de
+s'introduire dans le premier emplacement disponibe sur la base du carquoi. Lorsque la gemme entrera dans le carquoi, un souffle de force se fera sentir.
+Les aventuriers resté à l'écart seront repoussé:
+
+[jet de force: 20]
+- *success*: l'aventurier réussi à conserver son équilibre et ne chute pas.
+- *fail*: l'aventurier est projeté contre la parroi et prend 1d6 de dégat, avant de tomber au sol.
+
+Le carquoi redescent progressivement, sa couleur a changé, des flammes sont apparues sur le contour et au dessus de la gemme est ecrit *feu*.
+
+Lorsque l'archer reprend le carquoi, celui-ci lui murmure:
+*Demande et tu auras. Par le feu, il brûlera.*
+
+[jet de perception: 20]
+- *success*: les racines sont en train de se nouer autour de la jambe de l'aventurier détenteur du carquoi.
+- *fail*: l'aventurier ne remarque pas que sa jambe est enchevêtrée dans des racines.
+
+Les racines forment une main invisible retenant l'aventurier. Plus il forcera pour s'en défaire, plus les racines renforceront leur emprise.
+
+L'autel est toujours protègé par un dome protecteur empêchant les sort et les corps de pénétrer dans l'espace du dome.
+Le porteur du carquoi est le seul qui puisse faire quelque chose pour se défaire de ses liens.
+
+```
+L'aventurier pris au piège perd 1d3 pv par round.
+Une flèche de feu tiré vers les racines repousseront leur emprise.
+
+Si au bout de 3 rounds l'aventurier n'a pas l'idée d'utiliser les flêche de feu, le carquoi pourra l'aider en chuchotant:
+Brûle ton ennemi.
 ```
 

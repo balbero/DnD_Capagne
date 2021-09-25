@@ -61,3 +61,5 @@ de générer:
 | Feu-givré | génère une flèche de feu-givré. La pointe de la flèche est remplacé par une pointe de glace entourée d'une flamme |
 | terre-tonitruante | génère une flèche de terre-tonitruante. La pointe de la flèche est remplacé par une pointe de roche acérée. Lorsque la pointe touche quelque chose, elle éclate et créé une onde de choc sur 1.5m |
 | Spectrale | la flèche est spectrale. Ajoutant 1d10 au dégats et traverse toute armure. |
+
+[pdf](https://homebrewery.naturalcrit.com/edit/EbX3IRKRjZeH)
