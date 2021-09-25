@@ -171,6 +171,9 @@ d'où une odeur de mort en émane.
 - *fail*: Perte de 1 pt de constitution temporaire.
 
 ## Les catacombes
+
+[les catacombes](images/Mausolee_chêne_tordu_catacombe.player.png)
+
 La première partie du sous-sol est une succession de tunel aménagé où se succède plusieurs alcove dans lesquelles sont
 entreposés des reste squeletique. Certaines alcoves ont une plaque d'identification permettant de connaitre le nom du
 propriétaire de la tombe.
@@ -213,8 +216,6 @@ Sur la tombe, un [journal](../3-indices/journal_du_gardien.md) est disposé.
 Derrière la stèle du gardien, se cache un tunel où pendent un enchevètrement de racine. A la suite de ce tunel, les aventuriers
 va se dessiner un méandre de ronces et de planes. les murs formés par ces plantes sont impénétrables.
 *On dirait qu'il va faloir trouver un chemin au travers de ce labyrinthe*
-
-[le labyrinthe](images/Mausolee_labyrinthe.md)
 
 Dans ce labyrinthe, les aventuriers rencontreront un [minautore](https://www.aidedd.org/dnd/monstres.php?vf=squelette-minotaure).
 
