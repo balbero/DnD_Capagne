@@ -3,12 +3,10 @@ Les terres sombres portent bien leur nom. La nuit perpétuelle, les mort-vivants
 autant de chose qui ne me manqueront pas.
 
 [...]
-
 Le roi veut me voir, il semblerait qu'il soit au courant de la qualité de mon travail dans les
 marches et ait décidé de me récompenser.
 
 [...]
-
 Sacré récompense! Après avoir surveillé les Marches pendant plusieurs années, après avoir empêché
 les morts d'envahir le royaume me voici Gardien de cimetière... Ma vie est merdique!
 
