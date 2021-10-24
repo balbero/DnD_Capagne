@@ -217,7 +217,7 @@ Derrière la stèle du gardien, se cache un tunel où pendent un enchevètrement
 va se dessiner un méandre de ronces et de planes. les murs formés par ces plantes sont impénétrables.
 *On dirait qu'il va faloir trouver un chemin au travers de ce labyrinthe*
 
-Dans ce labyrinthe, les aventuriers rencontreront un [minautore](https://www.aidedd.org/dnd/monstres.php?vf=squelette-minotaure).
+Dans ce labyrinthe, les aventuriers rencontreront un [minautore](https://www.aidedd.org/dnd/monstres.php?vf=minotaure).
 
 A l'issue du labyrinthe, une salle où filtre la lumière du jour par de petits interstices ouverts dans la terre par de grosses
 racines. Au centre de la pièce, un autel où une gemme rouge est entreposées.
