@@ -210,7 +210,7 @@ Si un archer a en sa possession de le carquoi de [lorcan](../1-Lieux/1-Astoria/4
 - *success*: les aventuriers ressentent un filet d'air provenant de derrière la stèle.
 - *fail*: les aventurers passeront à coté de la stèle sans remarquer quoique ce soit.
 
-Sur la tombe, un [journal](../3-indices/journal_du_gardien.md) est disposé.
+Sur la tombe, un [journal](../3-Indices/journal_du_gardien.md) est disposé.
 
 ## Le jardin
 Derrière la stèle du gardien, se cache un tunel où pendent un enchevètrement de racine. A la suite de ce tunel, les aventuriers
