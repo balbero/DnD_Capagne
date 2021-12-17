@@ -6,7 +6,7 @@ Ils pourront ainsi apercevoir la capitale. Son promontoire est visible à des li
 Fait d'un marbre blanc, celui-ci reflète le moindre rayon de soleil rendant la cité brillante
 tel un phare guidant les navires dans l'obscurité de l'océan.
  
-Les aventuriers devront découvrir que le lieux mentionné dans le journal de Bramnyl est
+Les aventuriers devront découvrir que le lieu mentionné dans le journal de Bramnyl est
 verrouillé magiquement. Pour ouvrir ce lieux, il faut briser les sceaux des trois
 Temples de la sauvegarde afin d'y accéder.
  

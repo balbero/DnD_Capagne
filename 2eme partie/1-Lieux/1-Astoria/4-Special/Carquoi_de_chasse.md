@@ -5,7 +5,7 @@ L' un de ces emplacements est rempli d'un gemme bleu.
 
 Sur le carquoi il est écrit en elfique:  
 "Les éléments réunis donnent un pouvoir infini.  
-Demande et tu sera servi."
+Demande et tu seras servi."
 
 
 Au dessus de la gemme, il est écrit "Eau" en elfique.  

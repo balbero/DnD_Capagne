@@ -13,7 +13,8 @@ commerçant.
 Les aventuriers entre dans la cité par le premier étage, l'étage des commerçants.
 
 A leur arrivée, Milina laissera les aventuriers en leur annonçant qu'elle doit allez voir
-ses supérieurs au temple de Pélor situé à l'étage des Pèlerins.
+ses supérieurs au temple de Pélor situé à l'étage des Pèlerins. Elle devra y faire son rapport ce qui 
+déclanchera le compte à rebours d'une semaine avant la [Rencontre avec le conseil](3-Quetes/rencontre_conseil.md).
 
 La cité offre la possibilité d'aller d'étage en étage utilisant des via des anneau de transfert:
 des cercles de pierres
@@ -97,11 +98,4 @@ pour l'alchimiste.
     - pour un coiffeur, [Ryan Hair](1-Lieux/2-Commerces/Ryan_hair_coiffure.md) disponible sur le promontoire
      d'Astoria.
 
-La composition du conseil :  
--   Danor Lumière des tréfonds (Nain, H)
--   Gark (Demi-Orque, H)
--   Dimbir Mekor (Humain, H): sa ressemblance avec le Barron Elrik DoomHammer est troublante.
--   Irofine flèche d'argent (Demie-elfe, F)
--   Daphidira (Gnome, F)
--   Verwyn lame d'ombre (Halfelin, F)
--   Harann Gueule de Bronze (Sang-Dragon, F)
+
