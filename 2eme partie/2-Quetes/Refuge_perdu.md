@@ -78,4 +78,40 @@ En cas d'echec, niveau de fatigue augmenter de 1 jusqu'à ce qu'elle termine un 
 le niveau de fatigue augmente de 2 au lieu de 1.
 ```
 
+Dans la guerite, des restes d'une table en bois et quatre chaises, quelques gravas sont visibles le long des murs principalement 
+du au mortier qui s'effrite. La lumière filtre à peine au travers des meurtrières, les aventuriers sentiront ce regard un peut plus 
+pesant. Un retour au dehors fera disparaitre l'oppression.
+
+Dans la Grande salle[2], si les aventuriers viennent a toucher le portail, celui-ci réagira par une onde se propageant comme un 
+frisson dans les veines d'ombre. 
+
+Si les aventuriers découvrent le passage dérière la statue, le portail s'activera. Laissant le choix aux aventuriers d'attendre ce qui 
+en sortira ou de se cacher.
+
+Après 1d10 tour, [Bestra Mornscroll](../4-Personnages/Bestra_Mornscroll.md) sortira du portail et se dirigera dans la salle des ombres[4].
+
+### Infiltration
+```
+Afin de suivre Bestra, les aventuriers devront faire un jet de discrétion > 15 ou d'utiliser un sort d'invisibilité.
+```
+Dans la salle des Ombres, Bestra y récupèrera des plantes, et parchemin, puis se rendra dans au premier étage de la Grande tour[1] où un [homme-lézard](https://www.aidedd.org/dnd/monstres.php?vf=homme-lezard) est 
+gardé enchainé. Bestra commencera par soigner l'individu, utilisant les plantes et le parchemin récolté, puis s'en suivra un intérogatoire 
+des plus étrange.
+En effet, la discution commencera par une giffle ennergique de Bestra. Réveillant ainsi son interlocuteur.
+```
+Connaitre la langue Draconique aidera beaucoup. Car seul quelques {mots} échapperont alors à l'aventurier.  
+Si l'aventurier ne connait pas cette langue alors tout ce qu'il comprendra ne seront que des sifflements et autre raclement de gorge.
+```
+
+[Thieraven](../4-Personnages/Thieraven.md), Mon cher ami.
+- Nous allons recommencer notre petit Raflen {jeu}. Tu vas répondre aux questions ou tu seras Zahramiik {sacrifier}
+*Thieraven rit*
+- Sonaak, Sahlo {Prêtre, faible}
+*Bestra lui décoche une giffle, ce qui fait rire Thieraven*
+- Tu te crois malin enchainé comme tu es?
+- Tu as d'autres chaine ma vieille amie, les tiennes sont plus insidieuses.
+*Bestra incante une formule, les chaines se détachent. Thieraven est libre*
+- Saviik {Sauveur}
+*Thieraven rit*
+- Conduit moi où tu l'as cachée.
 
