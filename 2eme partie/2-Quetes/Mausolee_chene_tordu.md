@@ -264,3 +264,4 @@ Si au bout de 3 rounds l'aventurier n'a pas l'idée d'utiliser les flêche de fe
 Brûle ton ennemi.
 ```
 
+Durant le voyage de retour, les aventuriers constateront qu'un faisceau de lumière s'étend depuis le mont Astoryl et la forêt 

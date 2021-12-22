@@ -5,6 +5,7 @@ aventuriers à plonger dedans afin de s'y noyer.
 Ambiances:
 - [Marais](https://www.youtube.com/watch?v=kzBx8TWcrG4)
 - [Plan du Feu](https://www.youtube.com/watch?v=cA6fqZl1pYs)
+- [Refuge Perdu](https://www.youtube.com/watch?v=Jh9E7Cus7JA)
 
 
 # Histoire
@@ -42,6 +43,8 @@ la suite tout oublié de l'endroit. Elle fut peu après conquise par des hobgobe
 entre les mains de cultistes de Sharran. Les Sharrans croyaient que le seigneur du crépuscule de Sessrendale avait 
 ouvert une faille planaire vers le plan de l'ombre dans ce donjon après avoir fui son ancienne patrie.
 
+[Refuge Perdu](Refuge_perdu.md)
+
 ### Donjon d'Orvaskyte
 Les sages ont convenu que le donjon d'Orvaskyte, découvert il y a deux cents and par des aventuriers à la recherche 
 de camarades disparus dans le marais, avait été construit par des membres du royaume d'Orva.
@@ -52,6 +55,8 @@ nuit sanglante et gluante.
 
 Le donjon aurait été occupé par des démons et d'autres monstres, ce qui a brusquement mis fin à toutes les considérations 
 d'exploration plus poussée de l'endroit.
+
+[Donjon d'Orvaskyte](donjon_orvaskyte.md)
 
 ### Autres localités
 Un geyser d'eau bouillante en éruption fréquente situé dans le vaste marais occidental (ouest) et entouré de plusieurs 
@@ -108,63 +113,3 @@ la traversée:
 |18|1d3 Revenants|(https://www.aidedd.org/dnd/monstres.php?vf=revenant)|
 |19|1 Yuan-ti Abomination| (https://www.aidedd.org/dnd/monstres.php?vf=yuan-ti-abomination) |
 |20|3 Guenaude verte| (https://www.aidedd.org/dnd/monstres.php?vf=guenaude-verte) |
-
-## Le refuge perdu
-
-### Les défenses
-Le donjon est entouré d'un épais mur de pierre au mortier, de 1,5 mètre d'épaisseur et de 4,6 mètres de haut.  
-Le coin sud-est abrite une guérite qui permet d'entrée par deux herses en fer rouillées situées aux extrémités 
-opposées d'un couloir couvert. La guérite est bordée de meurtrières faisant face à la fois à l'extérieur et au 
-couloir. Les cultistes ont gardé deux gardes humains, deux [homme-lézard](https://www.aidedd.org/dnd/monstres.php?vf=homme-lezard) et un [feu follet](https://www.aidedd.org/dnd/monstres.php?vf=feu-follet) coopératif (qui se faisait 
-passer pour une torche) campant ici.  
-
-À l'intérieur des murs défensifs à l'avant se trouve une cour principale. Des traces indiquent qu'il s'agit d'une 
-cour artificielle (à l'origine ce devait être une partie du marais). Des mares d'eau marécageuses s'infiltrent à 
-l'intérieur et des fougères, des arbustes et des vignes ont poussé entre les dalles. La fontaine en pierre de la 
-cour est recouverte d'une algue jaune-vert putride, laissant échapper une flaque verte et lisse sur le sol. 
-
-Il y a des cours latérales murées qui avaient contenu des champs de boue et un jardin à l'arrière devenu sauvage, 
-couvert de buissons, de vignes et de mauvaises herbes.
-
-### L'intérieur
-À l'intérieur, l'entrée et les pièces adjacentes sont recouvertes de décombres provenant de plafonds, de piliers 
-ou de murs effondrés, ce qui la rend assez précaire. Les cultistes font attendre leurs suppliants dominés ici 
-dans les « salles d'attente » : plus une prison qu'un campings pour les cultistes en visite. D'autres pièces ont été 
-revendiquées comme tanières par les [homme-lézard](https://www.aidedd.org/dnd/monstres.php?vf=homme-lezard).Dans les décombre on trouvera:
-- un morceau d'obsidienne
-- une fiole d'huile de ténèbres : Appliqué sur un objet, propage la ténèbre dans un rayon de 15 mètres
-- une potion de sagesse de hibou : Augmente la sagesse du buveur de 2
-L'une des autres pièces s'appelle la salle des ombres, principalement parce qu'elle est éclairée par des lanternes à 
-huile Sombre-Lumière, projetant sur ses murs des ombres dansantes. 
-C'est là que [Bestra Mornscroll](../4-Personnages/Bestra_Mornscroll.md) campe et fait son travail.
-
-La Grande Salle est la partie principale et centrale du donjon, mesurant environ 21 mètres de long et 15 mètres de large. 
-C'était autrefois assez grand, avec des colonnes élégantes soutenant un magnifique plafond voûté, qui se sont effondrés 
-avec le temps, laissant des décombres sur le sol et des trous dans le toit. Deux murs sont bordés de quatre alcôves 
-contenant des statues des royauté passées, avec deux autres statues dans les coins. Cette zone est devenue le quartier 
-général de [Thieraven](../4-Personnages/Thieraven.md) et de [Ketsarra Sombrécaille](../4-Personnages/Ketsarra_Sombrecaille.md) en supervisant les opérations du culte au Refuge perdu.
-
-La chose la plus importante dans la Grande Salle, cependant, était le Passage du Seigneur du Feu. Apparaissant comme un 
-grand orbe d'ombre tourbillonnante, il étendait de longues vrilles chamoirées, se tordant mais immobiles, dans toutes les 
-parties de la salle. C'était un portail vers le Plan du Feu, aujourd'hui éteind.
-
-La Grande Tour compose le reste du donjon. De forme octogonale, elle mesure 9 mètres de haut et donnait donc sur les murs 
-extérieurs, mais est complètement sans fenêtre. A l'intérieur, un escalier en colimaçon branlant, reliait deux niveaux, 
-mais le sol du niveau supérieur était déjà en train de s'effondrer. Une pièce du niveau inférieur servait de réserve au 
-culte, contenant 
-- des conserves 
-- capes, bottes et autres vêtements 
-- couvertures
-- fûts de vin de vigne assassin et autres fournitures. 
-Le niveau supérieur, dépourvu de fenêtres, était sombre et humide (les cultistes et leurs acolytes utilisent cette pièce 
-comme un véritable cachot, enchaînant les prisonniers lézards aux murs).
-
-Le refuge perdu abrite une bonne collection de statues royales, bien qu'endommagées par les conflits et la dégradation. 
-Il y avait des statues du roi Azoun III (sans tête) dans l'entrée, la reine Enchara dans la salle des ombres, le roi Galaghard III, 
-l'un des rois Bryntarths (on ne sait pas lequel), le roi Boldovar le fou et le roi Palaghard Ier dans les alcôves de la grande salle 
-et le roi Dhalmass et la reine Jhalass (qui avaient tous deux régné et étaient morts l'année de la construction du donjon) se 
-tenaient sur des plates-formes dans les coins.
-
-La statue de la reine Jhalass cachait un passage secret : un interrupteur à l'arrière faisait pivoter la plate-forme et exposait 
-l'entrée d'une chambre cachée reliant la Grande Salle et la Grande Tour. Les Sharrans y ont naturellement installé un sanctuaire 
-dédié à la déesse des secrets : un autel, un symbole impie et une lampe à huile à la Sombre-Lumière.
