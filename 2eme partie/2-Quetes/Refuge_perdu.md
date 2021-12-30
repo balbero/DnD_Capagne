@@ -3,7 +3,7 @@
 [Carte](images/Carte/Refuge_Perdu.png)
 
 ## Les défenses
-Le donjon est entouré d'un épais mur de pierre au mortier, de 1,5 mètre d'épaisseur et de 4,6 mètres de haut.  
+Le donjon est entouré d'un épais mur de pierre au mortier, de 1,5 mètre d'épaisseur et de 4.6 mètres de haut.  
 Le coin sud-est abrite une guérite qui permet d'entrée par deux herses en fer rouillées situées aux extrémités 
 opposées d'un couloir couvert. La guérite est bordée de meurtrières faisant face à la fois à l'extérieur et au 
 couloir. Les cultistes ont gardé deux gardes humains, deux [homme-lézard](https://www.aidedd.org/dnd/monstres.php?vf=homme-lezard) et un [feu follet](https://www.aidedd.org/dnd/monstres.php?vf=feu-follet) coopératif (qui se faisait 
@@ -88,15 +88,15 @@ frisson dans les veines d'ombre.
 Si les aventuriers découvrent le passage dérière la statue, le portail s'activera. Laissant le choix aux aventuriers d'attendre ce qui 
 en sortira ou de se cacher.
 
-Après 1d10 tour, [Bestra Mornscroll](../4-Personnages/Bestra_Mornscroll.md) sortira du portail et se dirigera dans la salle des ombres[4].
+Après 1d4 tour, [Bestra Mornscroll](../4-Personnages/Bestra_Mornscroll.md) sortira du portail et se dirigera dans la salle des ombres[4].
 
 ### Infiltration
 ```
 Afin de suivre Bestra, les aventuriers devront faire un jet de discrétion > 15 ou d'utiliser un sort d'invisibilité.
 ```
-Dans la salle des Ombres, Bestra y récupèrera des plantes, et parchemin, puis se rendra dans au premier étage de la Grande tour[1] où un [homme-lézard](https://www.aidedd.org/dnd/monstres.php?vf=homme-lezard) est 
-gardé enchainé. Bestra commencera par soigner l'individu, utilisant les plantes et le parchemin récolté, puis s'en suivra un intérogatoire 
-des plus étrange.
+Dans la salle des Ombres, Bestra y récupèrera des plantes, et parchemin, puis se rendra dans au premier étage de la Grande tour[1] 
+où un [homme-lézard](https://www.aidedd.org/dnd/monstres.php?vf=homme-lezard) est gardé enchainé. Bestra commencera par soigner l'individu, utilisant 
+les plantes et le parchemin récolté, puis s'en suivra un intérogatoire des plus étrange.
 En effet, la discution commencera par une giffle ennergique de Bestra. Réveillant ainsi son interlocuteur.
 ```
 Connaitre la langue Draconique aidera beaucoup. Car seul quelques {mots} échapperont alors à l'aventurier.  
@@ -114,4 +114,42 @@ Si l'aventurier ne connait pas cette langue alors tout ce qu'il comprendra ne se
 - Saviik {Sauveur}
 *Thieraven rit*
 - Conduit moi où tu l'as cachée.
+- Je te croyais plus Onik {sage}
+
+Thieraven se tord de douleur et s'effondre au sol, inconscient.
+- Imbécile.
+*Bestra sert les poings et disparait dans un nuage d'ombres*
+Le portail se refermera après sa disparition.
+
+### Affrontement
+Si les aventuriers décident d'affronter Bestra, elle disparaitra dans un nuage d'ombres en déclarant:
+- Vous souillez cet endroit sacré!
+
+Le portail se refermera après sa disparition.
+
+### Un corps dans la tour
+Un odeur répugnante émane de la pièces, des relents d'urine et de selles séchées, de putréfaction donne le haut-le-coeur à nos aventuriers.
+[jet de sauvegarde de constitution: 15]
+- _succes_: l'aventurier réussit à contenir son envie de vomir.
+- _fail_: l'aventurier vomit son dernier repas.
+
+Devant les aventuriers est allongé un homme-lézard au tein pâle. De multiples plaies l'entaillent un peu partout sur son corp. 
+Il est amaigri, affaibli, mais vivant.
+[jet d'histoire : 14]
+- *success*: l'aventurier sait qu'il s'agit d'un ancien disciple de Shar du nom de [Thieraven](../4-Personnages/Thieraven.md). Il connait son histoire.
+- *fail*: l'aventurier pense connaitre l'homme-lézard, mais pour lui c'est impossible, cela fait 200 ans. 
+
+
+:warning: Thieraven ne peut pas être réveillé par les aventuriers.
+
+
+[jet d'investigation: 16]
+- _succes_: L'aventurier découvrira qu'il y a quelque chose d'étrange avec les tatouages de Thieraven, comme si un message y était caché.
+_ _fail_: l'aventurier trouvera que les tatouages sont très beau.
+
+
+
+### Le portail
+[le portail](Portail.md)
+
 

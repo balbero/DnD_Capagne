@@ -48,7 +48,7 @@ ouvert une faille planaire vers le plan de l'ombre dans ce donjon après avoir f
 ### Donjon d'Orvaskyte
 Les sages ont convenu que le donjon d'Orvaskyte, découvert il y a deux cents and par des aventuriers à la recherche 
 de camarades disparus dans le marais, avait été construit par des membres du royaume d'Orva.
-[jet de sagess: 15]
+[jet de sagesse: 15]
 - *success*: l'aventurier sait qu'Orva est le noms d'une des royaumes oublié. Ce royaume fut détriuit en une longue 
 nuit sanglante et gluante.
 - *fail*: l'aventurier a surement mal compris mais pour lui on parle du royaume Ovale.

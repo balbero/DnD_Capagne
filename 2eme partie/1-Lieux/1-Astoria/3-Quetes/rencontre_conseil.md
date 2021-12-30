@@ -28,6 +28,22 @@ est grande 1m85, ses cheveux d'argent tressés tombent sur ses reins. Un arc sty
 -   Verwyn lame d'ombre (Halfelin, F): Verwyn restera encapuchonée, empêchant quiconque de voir son visage.
 -   Harann Gueule de Bronze (Sang-Dragon, F): Harann est un fier Sang-Dragon de 2m. Il porte une toge bleu et un missel est posé à coté de lui.
 
+### La salle du conseil
+La salle du conseil est en quart de disque. La salle est copée en deux parties:
+- la première permet d'acceuillir un public (quelques personne sont présentes lorsque lers aventurier entre dans la salle)
+- la seconde séparrée par une barrière acceuille le conseil qui fait dos à une ouverture permettant d'avoir une vue imprenable sur 
+la province sud de la principauté.
+
+Sur les mur de la salle, les portaits des memebres du conseil. Au sol, la carte de la principauté est représenté sous la forme d'une mosaïque.
+[jet d'investigation: 15]
+- _succes_: l'aventurier remarquera qu'un carreau rouge marque l'emplacement d'Everton.
+_ _fail_: l'aventurier trouvera que le travail est de belle facture.
+
+[jet d'investigation: 32]
+- _succes_: l'aventurier remarquera que les carreaux formant la pointe du sommet d'Astoryl ont été repeint.
+_ _fail_: l'aventurier trouvera que le travail est de belle facture.
+
+
 ## L'histoire d'Everton
 
 Chaque mois, le conseil est présidé par une personne différente. Ce mois-ci, c'est Irofine flèche d'argent qui préside le conseil. Elle invitera les 
