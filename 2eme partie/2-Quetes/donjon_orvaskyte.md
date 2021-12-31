@@ -23,7 +23,6 @@ Les aventuriers découvrent des empreintes de pas qui les mêneront sur une trap
 
 ## L'entrée
 
-[carte ](images/carte/donjon_orvaskyte_entrée.png)
 L'entrée se fait via une trappe dissimulé dans les brousailles de la ruine d'Orvaskyte. Une fois
 l'échelle descendu, les aventuriers se retrouveront dans une salle de 7.5 metres de long et 4.5 metres
 de large. Une porte lourde en bois (20pv; dd force pour enfoncer: 25) barre l'acces au reste du sous-sol.
@@ -31,7 +30,6 @@ Des torches éclairent le lieu.
 
 ## Le couloir d'acces
 
-[carte](images/carte/donjon_orvaskyte_couloir_acces.png)
 Derière la porte, un couloir de 4.5 mètres de long fait face aux aventuriers. Le couloir tourne
 sur la droite, après 4.5 mètres, les aventuriers feront face à un croisement:
 - sur la gauche, un cul de sac. le toit de ce sous terrain s'est effondré.
@@ -42,7 +40,6 @@ sur la droite, après 4.5 mètres, les aventuriers feront face à un croisement:
 - devant eux, le couloir semble se terminer sur une porte en pierre.
 
 ### Le couloir piégé
-[carte](images/carte/donjon_orvaskyte_couloir_piege.png)
 
 Deux pièges à pression sont disposés à 9 mètres et un second à 18 mètres.
 
@@ -68,7 +65,6 @@ Six metres après les pièges, les aventuriers auront une porte en bois simple s
 
 
 ### La salle d'acceuil
-[carte](images/carte/donjon_orvaskyte_salle_acceuil.png)
 
 Comme à leur habitude, le culte de Shar reserve une salle pour leur nouveaux membres.
 En ouvrant la porte, les aventuriers tomberont nez à nez avec trois accolytes,  six membre du culte.
@@ -78,7 +74,7 @@ En ouvrant la porte, les aventuriers tomberont nez à nez avec trois accolytes, 
 - [Cultiste](https://www.aidedd.org/dnd/monstres.php?vf=cultiste)
 
 [jet d'invesigation]
- - >18 : l'aventurier remarque que le mur à l'est de la salle est étrange. Les pierres sont allignées
+&gt;18 : l'aventurier remarque que le mur à l'est de la salle est étrange. Les pierres sont allignées
  et trace une ligne verticale, comme pour définir une limite.
 
 loot: 51po 31pa 46pc
@@ -114,7 +110,7 @@ L'autre sas ne comporte rien de particulier, excepté la ténèbre qui s'y trouv
 cependant de sortir de la salle des tortures.
 
 ### le passage secret
-L'ouverture se fera par un jet de force (>13) permettant ainsi de révéler un couloir tournant sur la
+L'ouverture se fera par un jet de force ( &gt;13) permettant ainsi de révéler un couloir tournant sur la
 gauche. Ce couloir mesurant 4.5 mètres n'est pas éclairé, mais la pénombre est suffisante pour qu'un
 non-nictalope puisse distinguer le virrage.
 Après le virage, le couloir se prolonge sur 6 mètres, se terminant sur une petite salle carré
@@ -131,10 +127,22 @@ cibles multiples (toutes les cibles situées dans un rayon de 1,50 m)
 Investigation (DD 16)
 Désamorçage/sabotage (DD 18)
 ```
-Si le coffre explose, le contenu n'est pas récupérable.
-Si les aventuriers désamorcent le piège, ils trouveront :
+Dans le coffre, ils trouveront :
 
-:warning: TRESOR A DEFINIR avec les tables de loot :warning:
+|Detruit|Loot|
+|--|--|
+|Oui|une paire de [Botte de Rapidité](https://www.aidedd.org/dnd/om.php?vf=bottes-de-rapidite)|
+|Oui|une [Cape Elfique](https://www.aidedd.org/dnd/om.php?vf=cape-elfiqu)|
+|Non|un [Manuel d'exercice](https://www.aidedd.org/dnd/om.php?vf=manuel-d-exercices-physiques)|
+|Non|un [Manuel de vitalité](https://www.aidedd.org/dnd/om.php?vf=manuel-de-vitalite)|
+|Non|un [Haume de téléportation](https://www.aidedd.org/dnd/om.php?vf=heaume-de-teleportation)|
 
+## La salle de garde
 
+### l'armurerie
 
+## La salle de rituelle
+
+### La salle cachée
+
+## Le dortoir
