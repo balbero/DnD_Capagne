@@ -13,3 +13,4 @@ Le prélude à cette aventure est le scénario _La Haute Tour_
 - [Loot sur Démon](http://medievalmelodies.blogspot.com/2017/07/creature-loot-d-is-for-demons-and-devils.html)
 - [Encounter Calculator](https://www.aidedd.org/dnd-encounter/index.php)
 - [Mostre disponible](https://www.aidedd.org/dnd-filters/monstres.php)
+- [The loot shop](https://www.5elootshop.com/5e-magic-items.html)
