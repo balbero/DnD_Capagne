@@ -33,11 +33,11 @@ Des torches éclairent le lieu.
 Derière la porte, un couloir de 4.5 mètres de long fait face aux aventuriers. Le couloir tourne
 sur la droite, après 4.5 mètres, les aventuriers feront face à un croisement:
 - sur la gauche, un cul de sac. le toit de ce sous terrain s'est effondré.
-- sur la droite, un couloir de 27 mètres de long, éclairé.
+- sur la droite, un [couloir](#le_couloir_piege) de 27 mètres de long, éclairé.
   [jet de survie: 16 / detection des pièges]
   - _succès_: l'aventurier detecte la présence de pièges dans ce couloir.
   - _fail_: juste un couloir de plus...
-- devant eux, le couloir semble se terminer sur une porte en pierre.
+- devant eux, le couloir semble se terminer sur une [porte en pierre](#la_salle_d_acceuil).
 
 ### Le couloir piégé
 
@@ -61,7 +61,7 @@ poison – venin d’araignée monstrueuse de taille M, jet de Vigueur (DD 12) p
 Investigation (DD 17) pour le voir
 Désamorçage/sabotage (DD 21).
 ```
-Six metres après les pièges, les aventuriers auront une porte en bois simple sur leur gauche.
+Six mètres après les pièges, les aventuriers auront une porte en bois simple sur leur gauche.
 
 
 ### La salle d'acceuil
@@ -74,8 +74,8 @@ En ouvrant la porte, les aventuriers tomberont nez à nez avec trois accolytes, 
 - [Cultiste](https://www.aidedd.org/dnd/monstres.php?vf=cultiste)
 
 [jet d'invesigation]
-&gt;18 : l'aventurier remarque que le mur à l'est de la salle est étrange. Les pierres sont allignées
- et trace une ligne verticale, comme pour définir une limite.
+&gt;18 : l'aventurier remarque que l'une des pierres sur le mur à l'est peut bouger.
+En la poussant, le [mur sur la droite](#le_passage_secret) s'ouvrira, révélant un couloir.
 
 loot: 51po 31pa 46pc
 
@@ -139,10 +139,117 @@ Dans le coffre, ils trouveront :
 
 ## La salle de garde
 
+La salle de garde est une salle atypique regroupant deux salle carrée de 6 mètres de long et
+4.5 mètres de large.
+A leur entrée dans la salle, se dressera devant les aventuriers, un [Chien de chasse infernal](https://www.aidedd.org/dnd/monstres.php?vf=chien-de-chasse-infernal) qui grognera.
+Les aventuriers entendront alors son maitre:
+- Brutus, coucher!!
+*Le chien ne bougera pas. Après quelques secondes, il se lèvera de sa chaise pour aller voir  le chien*
+- Qu'est-ce qu'il y a salle cabot!?
+*Puis voyant les aventuriers*
+- Oh! mais qu'avons nous là? *avec un ton sadique* Brutus! Rufus! Le repas est servi!
+
+Monstres:
+- 2 [Chien de chasse infernal](https://www.aidedd.org/dnd/monstres.php?vf=chien-de-chasse-infernal)
+- [Veteran](https://www.aidedd.org/dnd/monstres.php?vf=veteran)
+
+Loot:
+- 14po 11pa 20pc
+- 1 Clibanion.
+> Cette armure est faite de bandes de métal verticales étroites qui sont rivetées sur
+> un support de cuir et porté sur un rembourrage en tissu. Une cotte de mailles flexible protège les
+> articulations.
+- 1 Epée longue
+- 1 Epée courte
+- 1 Arbalète lourde + 1d8 carreaux
+
+La Salle de garde comporte 3 portes:
+- la première est celle empruntée par nos aventuriers menant dans le couloir piégé
+- la seconde sur leur [gauche](#la_salle_des_rituels)
+- la troisième au [fond](#l_armurerie) de la salle
+
 ### l'armurerie
 
-## La salle de rituelle
+Petite salle de 6 mètres sur 3 mètres de large, elle renferme trois manequins d'armure (deux vides,
+sur le troisième sera entreposé une cote de maille ), et un ratelier d'arme (un massue et deux lances).
+
+## La salle des rituels
+Après avoir passé la double porte en bois, un escalier descendant mènera nos aventuriers vers la salle
+des rituels.
+Cette salle de 15 mètres de long et 10 mètres de large, en son centre:
+- un pentacle
+- cinq corps disposés autour du symbole
+- un portail sombre comme l'ébène au centre du pentacle
+
+Autour, quattre [fanatiques](https://www.aidedd.org/dnd/monstres.php?vf=fanatique) de Shar psalmodient une
+même lithanie.
+Les fanatiques n'opposeront aucune résistance.
+Après 1d10 tour (ce qui tuera les fanatique) ou à leur mort, deux [démon des ombres](https://www.aidedd.org/dnd/monstres.php?vf=demon-des-ombres) sortiront du portail
+avant qu'il ne se ferme.
+
+Loot:
+- 15 po, 25 pa
+- 4 dagues
+- 1 Fiole d'Ichor infâme : Pas d'utilisation immédiate. Peut être transformé de manière magistrale
+(fournitures d'alchimiste) en une potion d'immunité aux poisons. Lorsqu'il est consommé, confère
+une immunité aux dégâts de poison et à l'état d'empoisonnement pendant 1 heure, et soigne tous les
+poisons affectant actuellement la créature.
+- 2 Griffes d'ombre : Agit comme un poignard +1 qui inflige des dégâts psychiques au lieu de dégâts
+perforants. Le poignard est détruit lorsqu'il est exposé au soleil.
+- 1 Fiole d'Ectoplasme : Pas d'utilisation immédiate. Peut être transformé (fournitures d'alchimiste)
+en potion d'invisibilité ou en huile d'éthéré.
+
+A droite et à gauche de la salle, des portes en bois permettent d'acceder au [dortoir](#le_dortoir).
+[jet de perception: &gt;16]
+- _succès_: deux pierres bougent dans le mur. En actionnant les deux pierres en même temps, le mur
+entre les deux pierres s'ouvrira laissant les aventuriers devant [la salle cachée](#la_salle_cahee)
+- _fail_: c'est un mur rien d'autre.
 
 ### La salle cachée
 
+Le mur s'ouvre sur une salle de 9 mètres de long sur 6 mètres de large. En son centre, un pot avec
+une pousse de pomme de terre. Au sud deux portes de pierres.
+
+```
+La salle ne comporte pas de pièges.
+Les portes ne peuvent pas être bougée manuellement.
+Tenter d'enfoncer les portes:
+- DD Force 25
+Tenter de casser les portes:
+- 45 pv
+- 17 CA
+```
+
+Bouger/Briser le pot aura pour effet:
+- un cliqueti se fait entendre dans la pièce
+- fermer le mur
+- ouvrir les portes de pierres. Ce qui révèlera un sas donnant sur une nouvelle salle.
+
+Après le sas, les aventurier entreront dans une salle de 10.5 mètres de long et 7.5 mètres de large.
+En son centre, un coffre et une caisse.
+
+```
+Pas de piège dans la salle, le coffre ou la caisse.
+```
+
+Dans le coffre:
+- La vigueur du estament de l'ombre: nom donné à un fouet. Si un aventurier se lie à ce fouet,
+il pourra l'utiliser jusqu'à 3 fois par jours afin d'obtenir ou de donner [Vision suprême](https://www.aidedd.org/dnd/sorts.php?vf=vision-supreme) à
+l'aventurier touché. Le fouet regagne 1d3 charge tous les matins.
+- La Tunique de Lumière. Si un aventurier se lie à cette tunique, il pourra se soigner de 2d4 +4 pv
+par repos long.
+- Le colier grenat du paladin. Ce colier d'or serti de quattre rubis donne la possibilité d'utiliser
+le sort [Saut](https://www.aidedd.org/dnd/sorts.php?vf=saut) et donne l'avantage sur les jet d'investigation
+et perseption pour découvrir des pièges, compartiment et porte secrette à quiconque se lie à lui
+
+Dans la caisse, juste des pommes de terre.
+Pour sortir de cette pièce, il faudra remettre le pot ou tout autre objet/personne qui ferait un poid
+suffisant pour actionner la dalle.
+
 ## Le dortoir
+Le dortoir comporte 15 lits, certainont été utilisé récemment, d'autre (4) sont encore vaccants.
+Les aventuriers pourront trouver:
+- un [journal](../3-indices/journal_de_fanatique_de_shar.md) de fanatique.
+- sur un chevalet, un livre intitulé [le combat de l'ombre](../3-indices/combat_de_l_ombre.md).
+- 5 po, 18 pc
+
