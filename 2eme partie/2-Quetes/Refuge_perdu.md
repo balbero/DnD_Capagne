@@ -72,11 +72,11 @@ Les aventuriers entreront par la porte principale. Dès leur entrée, ils ressen
 tapis dans l'ombre, les observait en silence.
 La fontaine en pierre au centre de la cour est recouverte d'une algue jaune-vert putride, laissant échapper une flaque verte et 
 lisse sur le sol. Quiconque goûtera à cette eau sera soumis au même effet que le [PiedLent](https://www.aidedd.org/dnd/poisons.php?vf=piedlent).  
+
 [Jet de sauvegarde de Constitution: DD 11]
-```
-En cas d'echec, niveau de fatigue augmenter de 1 jusqu'à ce qu'elle termine un repos long. Si le jet de sauvegarde est < 6, 
+- *fail*, niveau de fatigue augmenter de 1 jusqu'à ce qu'elle termine un repos long. Si le jet de sauvegarde est &lt; 6,
 le niveau de fatigue augmente de 2 au lieu de 1.
-```
+- *succes*, l'aventurier sent que la substance n'est pas normale, mais aucun effet si ce n'est un gout rance.
 
 Dans la guerite, des restes d'une table en bois et quatre chaises, quelques gravas sont visibles le long des murs principalement 
 du au mortier qui s'effrite. La lumière filtre à peine au travers des meurtrières, les aventuriers sentiront ce regard un peut plus 
@@ -89,6 +89,14 @@ Si les aventuriers découvrent le passage dérière la statue, le portail s'acti
 en sortira ou de se cacher.
 
 Après 1d4 tour, [Bestra Mornscroll](../4-Personnages/Bestra_Mornscroll.md) sortira du portail et se dirigera dans la salle des ombres[4].
+
+```
+Si un aventurier lance le sort de Détection de la magie, il verra que Bestra n'est qu'une image.
+```
+
+[jet de sagesse &gt; 16 || lecture de: Un abîme de magie]
+- *succes*: Bestra est sensé être morte, et une humaine qui vie plus de cent ans, c'est rare....
+- *fail*: une fanatique de plus.
 
 ### Infiltration
 ```
