@@ -226,10 +226,16 @@ Bouger/Briser le pot aura pour effet:
 - ouvrir les portes de pierres. Ce qui révèlera un sas donnant sur une nouvelle salle.
 
 Après le sas, les aventurier entreront dans une salle de 10.5 mètres de long et 7.5 mètres de large.
-En son centre, un coffre et une caisse.
+En son centre, un coffre et une caisse. Le mur du fond est scupté. Il représente l'attaque des démons
+sortant d'un portail et une armée compsée d'Humain, de Nain et d'Elfe s'apprètant à les recevoir.
+Le donjon d'orvaskyte et le Refuge perdu sont représentés à égale distance de ce champ de bataille.
+
 
 ```
-Pas de piège dans la salle, le coffre ou la caisse.
+En comparant avec la carte, et en partant du principe que ce portail existe encore, il se situerait
+sur l'île située au milieu du marais.
+
+Pas de piège dans la salle, ni sur le coffre ou ni sur la caisse.
 ```
 
 Dans le coffre:

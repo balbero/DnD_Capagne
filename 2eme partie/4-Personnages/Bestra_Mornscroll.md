@@ -46,4 +46,13 @@ Bestra est une succube au service de Shar. Quoi de plus pratique pour recruter d
 Après l'attaque du Refuge, elle s'enfuit avec [Thieraven](Thieraven.md). Ils se séparèrent et Thieraven
 garda la dague saccrificielle.
 Aujourd'hui, Bestra se fait appeler [Mme Ritchell](../1-Lieux/1-Astoria/2-Personnages/mme_ritchell.md) et se cache sous le déguisement d'une vieille dame qui
-aime ses chats.
+aime ses chats.Une seule pièce sert de cuisine, chambre
+et latrine. Elle vit avec ses six chats:
+- Malo, un noir et blanc
+- Teigne, une chatte rousse. Elle feulera à chaque fois que quelqu'un essaira de l'approcher.
+- Pelle, une chatte blanche. Elle restera assise à observé les aventuriers.
+- Terton, un gros chat gris. Il ne quitera jamais sa maitresse, toujours soit assis sur elle,
+soit dans ses pieds
+- Lumo, un chat roux avec ses pattes blanches. Il aime le feu et restera proche de la cheminé.
+- Pitre, un chat noir. Il aime virevolter sur les meubles et jouer avec tout ce qu'il trouve.
+
