@@ -25,5 +25,5 @@ Les personnages voyant dans le noir ne seront pas plus aventagés. Le couloir se
 ```
 Après une progression d'environ 40 mètres, un portail de feu apparaîtra devant eux.
 
-# le monde de feu
+# Le monde de feu
 
