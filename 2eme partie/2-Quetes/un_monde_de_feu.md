@@ -25,9 +25,9 @@ lieux elle se fait appeler Madame
 
 Racryshz fera descendre nos aventuriers dans une grande salle de reception. Une grande table au centre
 (pouvant accueillir jusqu'à 26 personnes) sur laquelle des mets et boissons sont laissés à la disposition des personnes. Racryshz encourragera
-les aventurier à se servir le temps que Madame les recoivent. Trois double-portes permettent de sortir de
+les aventuriers à se servir le temps que Madame les recoivent. Trois double-portes permettent de sortir de
 la salle. La pièce est richement décorée de dorrure, le plafond est peind et représente la rencontre des deux
-cultures, Humaine et Elémentaire.
+cultures, Humaine et Elémentaire: un homme tend un doigt vers un élémentaire.
 ```
 La nouriture n'est en rien toxique. Tout est simplement chaud, même la boisson.
 ```
@@ -46,6 +46,7 @@ Sa seule phrase sera:
 Elle ne dira pas un mot jusqu'à leur arrivée dans son bureau.
 Le bureau est entouré d'une aura magique. Probablement une zone de silence.
 ```
+
 Une fois la porte fermée, le voile tombe. A la place de Bestra, une femme au cheveux noir de jaie, habillée
 d'une bure noire.
 
@@ -56,4 +57,21 @@ de la discrétion.
 
 - Je suis désolée de vous avoir quitée ainsi durant la scéance à Astoria, mais comprenez que
 je ne pouvais pas rester plus longtemps. Si ces runes tombent, le tombeau sera ouvert, donnant à la liche
-la possibilité de libérer sur nous le Fléau. 
+la possibilité de libérer sur nous le Fléau.
+Le tombeau est aujourd'hui affaibli, l'un des sceaux est brisé. Il est important que les deux autres subsistes.
+
+
+```
+Qu'est devenu Bestra?
+Les aventuriers au service de Mystra ont fini de traquer Bestra en ces lieux. Cependant, rien indique qu'elle fut tué ce
+jour la aussi. Par contre, il est écrit que les aventuriers ont découvert une rune dans une salle ornée de scenes et
+de mise en garde.
+```
+
+Nos aventuriers pourront voir la salle s'ils le demandent. Verwyn reprendra l'apparence de Bestra avant de les accompagner.
+
+
+# La salle de la rune
+
+La salle est coupée en deux par une grille qui préserve la rune d'esprits téméraire. La rune se trouve sur une stèle placée
+au centre de la partie dérière la grille

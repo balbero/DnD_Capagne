@@ -29,4 +29,5 @@ Racryshz n'est pas despotique mais sait punir tout manquement au règlement.
 # Réalité
 
 Racryshz se fait manipuler par la rune. Sa nature démoniaque a facilité la tâche à la liche Bzakhudyk.
-La rune se trouve dans le sous-sol de la tour
+La rune se trouve dans le sous-sol de la tour, Racryshz s'y rend régulièrement afin de prendre les
+consignes de son véritable maitre. 
