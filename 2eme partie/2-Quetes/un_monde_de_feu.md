@@ -14,7 +14,7 @@ sont encore visible sur son front. Il est particulièrement attrayant pour la ge
 
 - Vous devez être les émissaires? Madame nous a informé de votre venue, veuillez me suivre.
 
-```
+```markdown
 Qui est cet homme?
 Il s'agit de [Racryshz](../4-Personnages/Racryshz.md), c'est un cambion. Il est l'intendant de la tour et se charge de répondre aux
 besoins de Madame et de ses invités.
@@ -87,7 +87,7 @@ Le dernier mur, dérière la stèle représente la construction de cet endroit e
 Devant la grille, Racryshz qui contemple la stèle, comme hypnotisé. En se rapprochant de lui, Verwyn annoncera:
 - Racryshz tout va bien? Que faites vous ici?
 
-<span style="display:block" class="note">
+<span style="display:block">
 [jet de perception &gt; 16]
 - *succes*: Durant un court instant, Racryshz a des yeux verts luisant.
 - *fail*: Racryshz semble ailleurs.
@@ -99,11 +99,11 @@ Milina détectera l'aura de deux créature fiélonne invisible dans la salle.
 - Et qui sont nos amis ? demandera-t-elle à Racryshz.
 - Mais de qui parlez-vous?
 
-<span style="display:block" class="note">
+<div style="background-color:#f8f8f8;border-style:solid;border-width:1px;" markdown="1">
 [jet de perception &gt; 14]
 - *succes*: Durant un court instant, Racryshz a des yeux verts luisant.
 - *fail*: Racryshz semble ailleurs.
-</span>
+</div>
 
 - Des deux choses cachées mais présentes dans cette pièces avec nous.
 Milina dégaine sa masse.
@@ -111,11 +111,12 @@ Milina dégaine sa masse.
 - Ha, eux! Juste une assurance.
 Racryshz incante un portail, et se jette dedans.
 
--- Initiative
+---  
+Initiative  
 Le combat met en scenes deux [diable barbelé](https://www.aidedd.org/dnd/monstres.php?vf=diable-barbele)
 
-
--- Loot
+---
+Loot
 24po
 
 
