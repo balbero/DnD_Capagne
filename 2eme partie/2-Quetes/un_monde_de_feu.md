@@ -110,14 +110,32 @@ Milina dégaine sa masse.
 - Ha, eux! Juste une assurance.
 Racryshz incante un portail, et se jette dedans.
 
----  
-**Initiative**  
+---
+**Initiative**
 Le combat met en scenes deux [diable barbelé](https://www.aidedd.org/dnd/monstres.php?vf=diable-barbele)
 
 ---
-**Loot**  
+**Loot**
 24po
 
 ---
 
+En remontant l'escalier, des cris se font entendres. En haut de l'escalier, des traces de sang au sol
+un [cambion](https://www.aidedd.org/dnd/monstres.php?vf=cambion) est en train de tordre le coup à un servant.
+Un second arrive dans son dos passant devant les aventuriers et lui dit:
+- Vient! Il reste des pièces à vider.
 
+```
+Si les aventuriers n'attaquent pas, les cambions entreront dans une pièces d'où des cris retentieront.
+```
+
+---
+**Loot**
+* 2 amétistes
+* 1 perle
+* 1 jade
+Toutes ont une valeur de 100po.
+---
+
+A l'étage supérieur, la salle principale est occupée par un [élémentaire de feu](https://www.aidedd.org/dnd/monstres.php?vf=elementaire-du-feu) qui semble garder l'endroit.
+ 
