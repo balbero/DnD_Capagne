@@ -68,10 +68,54 @@ jour la aussi. Par contre, il est écrit que les aventuriers ont découvert une 
 de mise en garde.
 ```
 
-Nos aventuriers pourront voir la salle s'ils le demandent. Verwyn reprendra l'apparence de Bestra avant de les accompagner.
-
+Nos aventuriers pourront voir la salle s'ils le demandent. Verwyn reprendra l'apparence de Bestra avant de les accompagner
+et Milina lancera [Détection du bien et du mal](https://www.aidedd.org/dnd/sorts.php?vf=detection-du-mal-et-du-bien).
+> Deprehensio boni et mali
 
 # La salle de la rune
 
-La salle est coupée en deux par une grille qui préserve la rune d'esprits téméraire. La rune se trouve sur une stèle placée
-au centre de la partie dérière la grille
+La salle est coupée en deux par une grille. La rune se trouve sur une stèle placée au centre de la partie dérière la grille.
+Les murs de la salle sont peints, chaque pan de mur racconte une partie de l'histoire de la Stèle.
+
+```
+Le premier mur représente la découverte de la stèle par des élémentaires de feu et de roche.
+Le second mur représente la stèle brisée qui luit et les élémentaires qui se transforme en démons.
+Le troisième mur représente les aventuriers de Mystra qui combattent les démons.
+Le dernier mur, dérière la stèle représente la construction de cet endroit et le scellement de la stèle.
+```
+
+Devant la grille, Racryshz qui contemple la stèle, comme hypnotisé. En se rapprochant de lui, Verwyn annoncera:
+- Racryshz tout va bien? Que faites vous ici?
+
+<span style="display:block" class="note">
+[jet de perception &gt; 16]
+- *succes*: Durant un court instant, Racryshz a des yeux verts luisant.
+- *fail*: Racryshz semble ailleurs.
+</span>
+
+- J'aime descendre ici Madame, me rappeler l'histoire de ce lieux.
+
+Milina détectera l'aura de deux créature fiélonne invisible dans la salle.
+- Et qui sont nos amis ? demandera-t-elle à Racryshz.
+- Mais de qui parlez-vous?
+
+<span style="display:block" class="note">
+[jet de perception &gt; 14]
+- *succes*: Durant un court instant, Racryshz a des yeux verts luisant.
+- *fail*: Racryshz semble ailleurs.
+</span>
+
+- Des deux choses cachées mais présentes dans cette pièces avec nous.
+Milina dégaine sa masse.
+
+- Ha, eux! Juste une assurance.
+Racryshz incante un portail, et se jette dedans.
+
+-- Initiative
+Le combat met en scenes deux [diable barbelé](https://www.aidedd.org/dnd/monstres.php?vf=diable-barbele)
+
+
+-- Loot
+24po
+
+
