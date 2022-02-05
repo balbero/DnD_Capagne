@@ -173,6 +173,8 @@ Racryshz dira alors:
 Ses cornes pousseront, sa masse musculaire augmentera déchirant sa tenue dont les lanières deviendront des chaines,  
 devenant alors un [diable à chaine](https://www.aidedd.org/dnd/monstres.php?vf=diable-a-chaines).
 
+Verwyn sera alors la première à mourir sous les coups de ce diable.
+
 ---
 **Loot**
 
@@ -194,3 +196,5 @@ En regardant plus bas, les aventuriers verront que la transformation des habitan
 
 Après avoir retraverser le portail, les aventuriers pourront choisir de condamner l'accès. Cependant un faisceau rouge  
 sera visible dans le ciel d'Astoria liant le marais au mont Astoril.
+
+Milina, indiquera aux aventuriers qu'il leur faut en informer le Conseil.
