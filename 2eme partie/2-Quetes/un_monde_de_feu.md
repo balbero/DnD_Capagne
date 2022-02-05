@@ -152,11 +152,13 @@ Racryshz aura pris place sur la chaise de Verwyn, attendant le groupe.
 - Eh bien, vous en avez mis du temps. Je dois avouer que je ne pensais pas vraiment vous revoir.
 
 > *Pourquoi avoir fait cela?
+>
 > L'age de gloire de ce royaume, l'union dont faisait preuvent les habitants, la rage de la bataille. Mais  
 > surtout, l'envie d'en finir avec le joug des humains. Fini la servitude, fini les "oui Madame", "bien, madame".  
 > Libre et uni, voila ce que nous serons. Et même si cela passe par quelques dommages collatéraux.
 >
 > *Qu'a-t-on promis?
+>
 > Le pouvoir, la liberté et l'unité.
 
 
