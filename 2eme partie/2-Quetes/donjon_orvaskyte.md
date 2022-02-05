@@ -14,8 +14,9 @@ les enlèvements ont cessé.
 
 Le donjon est tel que les voyageurs s'attendent à le trouver: en ruine. Le culte a bien entendu pris soin de cacher ses actions dans cette ruine.
 
-[jet d'investigation]
-Les aventuriers découvrent des empreintes de pas qui les mêneront sur une trappe cammouflée au nord-ouest de la ruine. 
+> [jet d'investigation]
+> Les aventuriers découvrent des empreintes de pas qui les mêneront sur une trappe cammouflée
+> au nord-ouest de la ruine.
 
 # Dans l'antre du culte
 
@@ -34,9 +35,9 @@ Derière la porte, un couloir de 4.5 mètres de long fait face aux aventuriers. 
 sur la droite, après 4.5 mètres, les aventuriers feront face à un croisement:
 - sur la gauche, un cul de sac. le toit de ce sous terrain s'est effondré.
 - sur la droite, un [couloir](#le_couloir_piege) de 27 mètres de long, éclairé.
-  [jet de survie: 16 / detection des pièges]
-  - _succès_: l'aventurier detecte la présence de pièges dans ce couloir.
-  - _fail_: juste un couloir de plus...
+>  [jet de survie: 16 / detection des pièges]
+>  - _succès_: l'aventurier detecte la présence de pièges dans ce couloir.
+>  - _fail_: juste un couloir de plus...
 - devant eux, le couloir semble se terminer sur une [porte en pierre](#la_salle_d_acceuil).
 
 ### Le couloir piégé
@@ -73,9 +74,9 @@ En ouvrant la porte, les aventuriers tomberont nez à nez avec trois accolytes, 
 - [Accolyte](https://www.aidedd.org/dnd/monstres.php?vf=acolyte)
 - [Cultiste](https://www.aidedd.org/dnd/monstres.php?vf=cultiste)
 
-[jet d'invesigation]
-&gt;18 : l'aventurier remarque que l'une des pierres sur le mur à l'est peut bouger.
-En la poussant, le [mur sur la droite](#le_passage_secret) s'ouvrira, révélant un couloir.
+> [jet d'invesigation]
+> &gt;18 : l'aventurier remarque que l'une des pierres sur le mur à l'est peut bouger.
+> En la poussant, le [mur sur la droite](#le_passage_secret) s'ouvrira, révélant un couloir.
 
 loot: 51po 31pa 46pc
 
@@ -149,19 +150,22 @@ Les aventuriers entendront alors son maitre:
 *Puis voyant les aventuriers*
 - Oh! mais qu'avons nous là? *avec un ton sadique* Brutus! Rufus! Le repas est servi!
 
-Monstres:
-- 2 [Chien de chasse infernal](https://www.aidedd.org/dnd/monstres.php?vf=chien-de-chasse-infernal)
-- [Veteran](https://www.aidedd.org/dnd/monstres.php?vf=veteran)
+---
+**Monstres:**
+* 2 [Chien de chasse infernal](https://www.aidedd.org/dnd/monstres.php?vf=chien-de-chasse-infernal)
+* [Veteran](https://www.aidedd.org/dnd/monstres.php?vf=veteran)
 
-Loot:
-- 14po 11pa 20pc
-- 1 Clibanion.
+---
+**Loot:**
+* 14po 11pa 20pc
+* 1 Clibanion.
 > Cette armure est faite de bandes de métal verticales étroites qui sont rivetées sur
 > un support de cuir et porté sur un rembourrage en tissu. Une cotte de mailles flexible protège les
 > articulations.
-- 1 Epée longue
-- 1 Epée courte
-- 1 Arbalète lourde + 1d8 carreaux
+* 1 Epée longue en argent
+* 1 Epée courte en argent
+* 1 Arbalète lourde + 1d8 carreaux
+---
 
 La Salle de garde comporte 3 portes:
 - la première est celle empruntée par nos aventuriers menant dans le couloir piégé
@@ -187,23 +191,25 @@ Les fanatiques n'opposeront aucune résistance.
 Après 1d10 tour (ce qui tuera les fanatique) ou à leur mort, deux [démon des ombres](https://www.aidedd.org/dnd/monstres.php?vf=demon-des-ombres) sortiront du portail
 avant qu'il ne se ferme.
 
-Loot:
-- 15 po, 25 pa
-- 4 dagues
-- 1 Fiole d'Ichor infâme : Pas d'utilisation immédiate. Peut être transformé de manière magistrale
+---
+**Loot:**
+* 15 po, 25 pa
+* 4 dagues
+* 1 Fiole d'Ichor infâme : Pas d'utilisation immédiate. Peut être transformé de manière magistrale
 (fournitures d'alchimiste) en une potion d'immunité aux poisons. Lorsqu'il est consommé, confère
 une immunité aux dégâts de poison et à l'état d'empoisonnement pendant 1 heure, et soigne tous les
 poisons affectant actuellement la créature.
-- 2 Griffes d'ombre : Agit comme un poignard +1 qui inflige des dégâts psychiques au lieu de dégâts
+* 2 Griffes d'ombre : Agit comme un poignard +1 qui inflige des dégâts psychiques au lieu de dégâts
 perforants. Le poignard est détruit lorsqu'il est exposé au soleil.
-- 1 Fiole d'Ectoplasme : Pas d'utilisation immédiate. Peut être transformé (fournitures d'alchimiste)
+* 1 Fiole d'Ectoplasme : Pas d'utilisation immédiate. Peut être transformé (fournitures d'alchimiste)
 en potion d'invisibilité ou en huile d'éthéré.
+---
 
 A droite et à gauche de la salle, des portes en bois permettent d'acceder au [dortoir](#le_dortoir).
-[jet de perception: &gt;16]
-- _succès_: deux pierres bougent dans le mur. En actionnant les deux pierres en même temps, le mur
-entre les deux pierres s'ouvrira laissant les aventuriers devant [la salle cachée](#la_salle_cahee)
-- _fail_: c'est un mur rien d'autre.
+> [jet de perception: &gt;16]
+> - _succès_: deux pierres bougent dans le mur. En actionnant les deux pierres en même temps, le mur
+> entre les deux pierres s'ouvrira laissant les aventuriers devant [la salle cachée](#la_salle_cahee)
+> - _fail_: c'est un mur rien d'autre.
 
 ### La salle cachée
 
