@@ -20,7 +20,7 @@ Le donjon est tel que les voyageurs s'attendent à le trouver: en ruine. Le cult
 
 # Dans l'antre du culte
 
-[carte complète](images/carte/donjon_orvaskyte.png)
+[carte complète](images/Carte/donjon_orvaskyte.png)
 
 ## L'entrée
 
