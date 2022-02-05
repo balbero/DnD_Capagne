@@ -34,11 +34,11 @@ Des torches éclairent le lieu.
 Derière la porte, un couloir de 4.5 mètres de long fait face aux aventuriers. Le couloir tourne
 sur la droite, après 4.5 mètres, les aventuriers feront face à un croisement:
 - sur la gauche, un cul de sac. le toit de ce sous terrain s'est effondré.
-- sur la droite, un [couloir](#le_couloir_piege) de 27 mètres de long, éclairé.
+- sur la droite, un [couloir](#le-couloir-piege) de 27 mètres de long, éclairé.
 >  [jet de survie: 16 / detection des pièges]
 >  - _succès_: l'aventurier detecte la présence de pièges dans ce couloir.
 >  - _fail_: juste un couloir de plus...
-- devant eux, le couloir semble se terminer sur une [porte en pierre](#la_salle_d_acceuil).
+- devant eux, le couloir semble se terminer sur une [porte en pierre](#la-salle-dacceuil).
 
 ### Le couloir piégé
 
