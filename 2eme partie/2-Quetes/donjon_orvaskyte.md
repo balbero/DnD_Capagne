@@ -15,7 +15,7 @@ les enlèvements ont cessé.
 Le donjon est tel que les voyageurs s'attendent à le trouver: en ruine. Le culte a bien entendu pris soin de cacher ses actions dans cette ruine.
 
 > [jet d'investigation]
-> Les aventuriers découvrent des empreintes de pas qui les mêneront sur une trappe cammouflée
+> - Les aventuriers découvrent des empreintes de pas qui les mêneront sur une trappe cammouflée
 > au nord-ouest de la ruine.
 
 # Dans l'antre du culte
@@ -75,7 +75,7 @@ En ouvrant la porte, les aventuriers tomberont nez à nez avec trois accolytes, 
 - [Cultiste](https://www.aidedd.org/dnd/monstres.php?vf=cultiste)
 
 > [jet d'invesigation]
-> &gt;18 : l'aventurier remarque que l'une des pierres sur le mur à l'est peut bouger.
+> - &gt;18 : l'aventurier remarque que l'une des pierres sur le mur à l'est peut bouger.
 > En la poussant, le [mur sur la droite](#le_passage_secret) s'ouvrira, révélant un couloir.
 
 loot: 51po 31pa 46pc
@@ -261,7 +261,7 @@ suffisant pour actionner la dalle.
 ## Le dortoir
 Le dortoir comporte 15 lits, certainont été utilisé récemment, d'autre (4) sont encore vaccants.
 Les aventuriers pourront trouver:
-- un [journal](../3-indices/journal_de_fanatique_de_shar.md) de fanatique.
+- un [journal](../3-Indices/journal_de_fanatique_de_shar.md) de fanatique.
 - sur un chevalet, un livre intitulé [le combat de l'ombre](../3-indices/combat_de_l_ombre.md).
 - 5 po, 18 pc
 
