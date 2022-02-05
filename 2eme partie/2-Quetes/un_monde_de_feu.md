@@ -114,10 +114,12 @@ Racryshz incante un portail, et se jette dedans.
 
 ---
 **Initiative**
+
 Le combat met en scenes deux [diable barbelé](https://www.aidedd.org/dnd/monstres.php?vf=diable-barbele)
 
 ---
 **Loot**
+
 24po
 
 ---
@@ -135,6 +137,7 @@ Si les aventuriers n'attaquent pas, les cambions entreront dans une pièces d'o�
 
 ---
 **Loot**
+
 * 2 amétistes
 * 1 perle
 * 1 jade
@@ -159,7 +162,8 @@ Racryshz aura pris place sur la chaise de Verwyn, attendant le groupe.
 
 ---
 **Initiative**
-Racryshz est un [occultiste fielon](https://www.aidedd.org/dnd/monstres.php?vf=occultiste-de-fielon-5.5).  
+
+Racryshz est un [occultiste fielon](https://www.aidedd.org/dnd/monstres.php?vf=occultiste-de-fielon-5.5).
 Lorsque Racryshz arrivera à la moitié de ses points de vie, un tremblement de terre se fera sentir.  
 Racryshz dira alors: 
 - Ca y est notre heure est venue!
@@ -169,6 +173,7 @@ devenant alors un [diable à chaine](https://www.aidedd.org/dnd/monstres.php?vf=
 
 ---
 **Loot**
+
 * 11 pierres précieuses de 100 po (Jais, Chrysobéryl, Corail, Perle, Ambre, Chrysobéryl, Spinelle, Corail, Spinelle, Grenat, Jade)
 * 2600 po
 * [Épée incisive](https://www.aidedd.org/dnd/om.php?vf=epee-incisive)

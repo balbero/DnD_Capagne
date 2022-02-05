@@ -76,7 +76,7 @@ En ouvrant la porte, les aventuriers tomberont nez à nez avec trois accolytes, 
 
 > [jet d'invesigation]
 > - &gt;18 : l'aventurier remarque que l'une des pierres sur le mur à l'est peut bouger.
-> En la poussant, le [mur sur la droite](#le_passage_secret) s'ouvrira, révélant un couloir.
+> En la poussant, le [mur sur la droite](#le-passage-secret) s'ouvrira, révélant un couloir.
 
 loot: 51po 31pa 46pc
 
@@ -169,8 +169,8 @@ Les aventuriers entendront alors son maitre:
 
 La Salle de garde comporte 3 portes:
 - la première est celle empruntée par nos aventuriers menant dans le couloir piégé
-- la seconde sur leur [gauche](#la_salle_des_rituels)
-- la troisième au [fond](#l_armurerie) de la salle
+- la seconde sur leur [gauche](#la-salle-des-rituels)
+- la troisième au [fond](#larmurerie) de la salle
 
 ### l'armurerie
 
@@ -205,10 +205,10 @@ perforants. Le poignard est détruit lorsqu'il est exposé au soleil.
 en potion d'invisibilité ou en huile d'éthéré.
 ---
 
-A droite et à gauche de la salle, des portes en bois permettent d'acceder au [dortoir](#le_dortoir).
+A droite et à gauche de la salle, des portes en bois permettent d'acceder au [dortoir](#le-dortoir).
 > [jet de perception: &gt;16]
 > - _succès_: deux pierres bougent dans le mur. En actionnant les deux pierres en même temps, le mur
-> entre les deux pierres s'ouvrira laissant les aventuriers devant [la salle cachée](#la_salle_cahee)
+> entre les deux pierres s'ouvrira laissant les aventuriers devant [la salle cachée](#la-salle-cahee)
 > - _fail_: c'est un mur rien d'autre.
 
 ### La salle cachée
