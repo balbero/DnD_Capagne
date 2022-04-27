@@ -15,7 +15,6 @@ Il ne sera pas rare d'entendre parler de la compagnie de [Ronan](3-Personnages/R
 
 Ronan était un aventurier. Lui et sa compagnie ont nettoyé le temple situé au sud ouest de Grelimar.
 
-[Thristan](3-Personnages/Thristan.md), le barde le plus connu de la principauté pourra faire une représentation lorsque les aventuriers feront un arrêt dans
-l'aubrege du village.
+[Thristan](3-Personnages/Thristan.md), le barde le plus connu de la principauté pourra faire une représentation lorsque les aventuriers feront un arrêt dans l'aubrege du village.
 
 

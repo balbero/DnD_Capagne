@@ -190,7 +190,7 @@ Verwyn sera alors la première à mourir sous les coups de ce diable.
 
 En remontant dans la salle du portail, un faisceau rouge sera visible, traversant la coiffe de la tour. 
 ```
-En regardant à l'extérieur, le aventurier pourront voir que le faisceau est divisé en 8, se perdant dans l'horizon.  
+En regardant à l'extérieur, les aventurier pourront voir que le faisceau est divisé en 8, se perdant dans l'horizon.  
 En regardant plus bas, les aventuriers verront que la transformation des habitants a déjà commencée.
 ```
 
