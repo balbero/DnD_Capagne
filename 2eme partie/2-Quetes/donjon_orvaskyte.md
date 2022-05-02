@@ -4,8 +4,7 @@
 
 # Histoire
 
-Ce donjon est une ruine. Il l'était déjà lorsque la Grande Bataille a éclaté. On raconte qu'un désastre magique l'aurait détruit et que
-depuis seul quelques mur et une tour ont résisté au ravage du temps.
+Ce donjon est une ruine. Il l'était déjà lorsque la Grande Bataille a éclaté. On raconte qu'un désastre magique l'aurait détruit et que depuis seul quelques mur et une tour ont résisté au ravage du temps.
 
 # De nos jours
 
@@ -13,11 +12,13 @@ Le donjon Orvaskyte est un haut lieux du culte de Shar. Les anciens cultiste aya
 
 Le donjon est tel que les voyageurs s'attendent à le trouver: en ruine. Le culte a bien entendu pris soin de cacher ses actions dans cette ruine.
 
+>
 > #### Jet de caractéristique
 > ___
 > - **caractéristique:** Investigation
 > ___
 > - Les aventuriers découvrent des empreintes de pas qui les mêneront sur une trappe cammouflée au nord-ouest de la ruine.
+> ___
 
 \page
 <div class='pageNumber auto'></div>

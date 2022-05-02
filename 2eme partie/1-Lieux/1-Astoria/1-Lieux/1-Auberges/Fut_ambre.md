@@ -1,3 +1,5 @@
+# Les fût d'ambre
+
 Les fûts d'ambre est une auberge qui est plutôt de qualité moyenne tenue par Ennenn (Gnome, masculin) et un ancien compagnon d'aventure Farion "Ydus" Nerildior (Demi-elfe, masculin).
 
 Le bâtiment de forme rectangulaire est composé d'un rez-de-chaussée et d'un étage. Au rez-de-chaussée, se trouve une salle pouvant contenir 30 personnes. Sur le côté, se situe la cuisine où Kirina Lame tranchante (Nain, feminin) est au fourneau. La cuistot n'a pas de recette favorite, mais la cuisine y est correct.

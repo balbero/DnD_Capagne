@@ -1,7 +1,7 @@
 
 # Au Cochon qui dort
-Au cochon qui dort est un établissement prestigieux tenu par Runak (Demi-orque, feminin).
 
+Au cochon qui dort est un établissement prestigieux tenu par Runak (Demi-orque, feminin).
 Le bâtiment en forme de L est composé d'un rez-de-chaussée et de deux étages, l'architecture de la maison est très recherchée. Au rez-de-chaussée, se trouve une salle pouvant contenir 40 personnes. Sur le côté, se situe la cuisine où Prugor (Demi-orque, feminin) est au fourneau. La cuistot se targue de faire le meilleur "Ragoût de lapin sauce verte" de toute la région.
 Devant l'établissement, installées sur du parquet, de belles tables et chaises permettent de se restaurer en contemplant le paysage.
 A l'étage se trouvent les chambres, 4 chambres joliment décorées avec la possibilité d'y prendre un bain.
@@ -15,11 +15,16 @@ Il est possible de bénéficier des 5 services suivants dans cet établissement 
 
 Dans cet établissement viennent souvent des nobles, de plus la proximité de la maison d'un héros d'antan, amène celui-ci à y passer parfois pour raconter ses aventures.
 
+```
+```
+
 ## Le Rez-de-chausée
-[Rez de chaussée](../../3-Quetes/images/au_cochon_qui_rit.png)  
+![Rez de chaussée](../../3-Quetes/images/au_cochon_qui_rit.png)  
 
 ## le premier étage
-[1er étage](../../3-Quetes/images/au_cochon_qui_rit_1er.png)  
+![1er étage](../../3-Quetes/images/au_cochon_qui_rit_1er.png)  
+
+\page 
 
 ## le deuxième étage
-[2nd étage](../../3-Quetes/images/au_cochon_qui_rit_2nd.png)  
+![2nd étage](../../3-Quetes/images/au_cochon_qui_rit_2nd.png)  

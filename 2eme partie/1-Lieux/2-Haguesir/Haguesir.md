@@ -1,5 +1,5 @@
 
-# Introduction
+## Introduction
 Haguesir est une charmante bourgade d'un centaine d'habitant. Ce village proopose :  
 - [un maréchal ferrant](1-Lieux/Yvar.md).
 - [une auberge](1-Lieux/La_colline_gourmande.md), servent plus de taverne aux habittants.
@@ -11,7 +11,7 @@ Les aventuriers pourront passer par Haguesir à n'importe quel momentt de leur a
 Haguesir est tourmenté chaque nuit, une voix s'élève, suivit de pleures. Personne n'ose 
 sortir pour voir ce dont il s'agit et personne n'ose en parler.
 
-# La carte
+## La carte
 
-[la carte](3-Indices/Haguesir.png)
+![la carte](3-Indices/Haguesir.png)
 

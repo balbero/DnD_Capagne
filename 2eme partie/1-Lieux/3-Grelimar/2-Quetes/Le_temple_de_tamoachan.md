@@ -1,10 +1,10 @@
 
-# Introduction
+## Introduction
 Cette quete débute dans l'auberge de Grelimar, lorsque les aventuriers reviennent de l'Abîme Besancier.
 Durant un repos bien mérité à l'auberge, [Thristan](../3-Personnages/Thristan.md) fera une représentation qui projetera nos aventuriers dans l'aventure de [Ronan](../3-Personnages/Ronan.md) et sa compagnie.
 
 
-# Plonger dans l'aventure
+## Plonger dans l'aventure
 Thristan commencera sa représentation par quelques accords qui changeront ses yeux (Inspiration), les faisant briller d'un beau violet.
 
 >#### jet de sauvegarde 
@@ -37,12 +37,14 @@ C'est un temple pyramidal que l'on peut apercevoir dans le dos de Ronan.
 
 La suite se passe dans le livre *Les contes du portail béant* (p.61)
 
-\page
-# Fin de l'aventure
+## Fin de l'aventure
 Les aventuriers reviennent dans l'auberge de Grelimar au moment où Thristan entâme un dernier accord en disant:
 <div class="descriptive">
 N'oubliez pas de jeter une pièce au barde
 </div>
+
+```
+```
 
 >Les aventuriers pourront vérifier leur bourses, elle est plus légère. S'ils demandent le barman viendra les remercier, car *cela faisait longtemps que personne n'avait été aussi généreux!*. Il n'a plus de bière.
 > Les aventuriers ont perdu 50 po. Mais le matériel trouvé dans le temple est bien avec eux.
