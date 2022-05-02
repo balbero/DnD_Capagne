@@ -1,3 +1,5 @@
+# Bramnyl le banis
+
 Cet ancien prêtre de Moradin connu pour ses prêches, sa compassion et sa bienveillance vécu il y a plus de deux millénaires dans le clan des Nains des Montagnes. 
 Il perdit la tête lorsque son jeune frère Ermnir perdit la vit dans un combat qui opposait son clan à une troupe de Drow
 
@@ -15,68 +17,64 @@ Etat :
  - [X] Mort
 
 Raison de la mort :
-
-Vécut il y a 2000 ans et a été bannis du clan des nains des montagne pour avoir tenter des rituels interdit (relever les morts).  
-Le bannissement chez les nains équivaux à une mort car pour un nain il est impossible de vivre sans son clan.
-
+- Vécut il y a 2000 ans et a été bannis du clan des nains des montagne pour avoir tenter des rituels interdit (relever les morts).  
+- Le bannissement chez les nains équivaux à une mort car pour un nain il est impossible de vivre sans son clan.
 
 
+## Possession
+- [Cape de protection](https://www.aidedd.org/dnd/om.php?vf=cape-de-protection) +1 CA
+- [Bâton de flétrissement](https://www.aidedd.org/dnd/om.php?vf=baton-de-fletrissement)
 
--   _Liche + 3 squelettes (10pv, CA13, 1d4 -> 2 att)_
-
-|  |  |  |  |  |  |
-| -- | -- | -- | -- | -- | -- | 
-| For | 11 | 0 |  | lvl | 8 |  
-| Dex | 12 | +1 |  |  |  |  
-| Con | - | - |  | PV | 67 |  
-| Int | 20 | +5 |  |  |  |  
-| Sag | 15 | +2 |  | CA | 16 |   
-| Cha | 20 | +5 |  | init | +5 |   
-|  |  |  |  |  |  |   
-|  | tot | base | modif |  |  |   
-| Bba | +6/+1 |  |  |  |  |   
-| Vigueur | 6 | 6 | 0 |  |  |   
-| Reflex | 3 | 2 | 1 |  |  |   
-| Volonté | 8 | 6 | 2 |  |  | 
-
-
-| lvl | 0 | 1 | 2 | 3 | 4 | 5 |
-| -- | -- | -- | -- | -- | -- |  -- | 
-| nb sort | 6|7|5|5|4|1|
-
-
-| Niveau| Nom | Description | DD |
-| -- | -- | -- | -- |
-| 1 | Bouclier de la foi | +2 CA pendant 5min | - |
-| 1 | Convocation de mort-vivants | invocation de 1 squelette -> 10pv/1d4+1/CA 13 | - |
-| 1 | injonction | le PJ obéït a un mot | 13 -> Volonté |
-| 1 | Blessure | 1d8+8 | -- |
-| 2 | Cacophonie | 1d8 + etourdi 1round (portée 14m; zone 6m) | 14-> vigueur |
-| 2 | Immobilisation | personne ciblé figée sur place | 14-> volonté |
-| 2 | Profanation | +1 dmg, Att, save et pv au mort vivant dans zone 6m | -- |
-| 3 | Convocation de mort-vivants | invocation de 4 squelettes -> 10pv/1d4+1/CA 13 | -- |
-| 3 | Poigne d'Orcrus | 1d3/round + paralysie | 15 -> Vigueur |
-| 3 | Blessure grave | 3d8 + 8 | -- |
-| 3 | Malediction | -6 carac, -4 att, save, skill | 15 -> Volonté |
-| 3 | Tenèbre profonde | Ténèbres surnaturelles sur 18 m de rayon | -- |
-| 4 | Marche dans les airs | 10min/lvl | -- |
-| 4 | Blessure critique | 4d8 + 8 | -- |
-| 4 | protection contre la mort | immune: mort, absorb ennergie, effet neg -> 1min/lvl | -- |
-| 4 | Marteau du chaos | 3d8 + 1d6 round de ralentissement (-2 : CA, att, dmg, reflex) | 16 -> volonté (moitié degat + annule ralenti) |
-| 5 | Rejet de la loi | +4 CA au perso alligné sur la loi | -- |
-| 5 | Exécution | 3d6 + 8 | 17->Vigueur |
-
-
-|Special||
-|--|--|
-|Resistance|15 dmg/contandant + magic|
-|aura de terreur|5DV de terreur dans 18m|
-|||
-|DON||
-|cast sans composante matérielle||
-|spell focus|+1 jet de save contre evocation|
-|sens de l'initiative|+4 à l'init|
-
--   _Sur la liche (nécessite la mort de la liche)_
-    -   Linceul fantome +4 CA
-    -   Bâton de Nécromancie (GM p235)
+\page
+___
+___
+> ## Liche
+> *Mort-vivant de taille M, tout alignement mauvais*
+> ___
+> - **Classe d'armure** 18 (armure naturelle +1)
+> - **Points de vie** 135 (18d8 + 54)
+> - **Vitesse** 9m
+> ___
+> |FOR|DEX|CON|INT|SAG|CHA|
+> |:--:|:--:|:--:|:--:|:--:|:--:|
+> |11 (+0)|16 (+3)|16 (+3)|20 (+5)|14 (+2)|16 (+3)|
+> ___
+> - **Jets de sauvegarde** Con +10, Int +12, Sag +9
+> - **Compétences** Arcanes +19, Histoire +12, Intuition +9, Perception +9
+> - **Résistances aux dégâts** froid, foudre, nécrotique
+> - **Immunités aux dégâts** poison ; contondant, perforant et tranchant d'attaques non magiques
+> - **Immunités aux états** charmé, épuisement, effrayé, paralysé, empoisonné
+> - **Sens** vision véritable 36 m, Perception passive 19
+> - **Langues** commun et jusqu'à cinq autres langues
+> - **Puissance** 21 (33000 PX)
+> - **Résistance légendaire** (3/jour). Si la liche échoue à un jet de sauvegarde, elle peut décider de transformer cet échec en réussite.
+>___
+> **Reconstitution.** Si elle a un phylactère, une liche détruite récupère un nouveau corps au bout de 1d10 jours, regagnant ainsi tous ses points de vie et redevenant active. Le nouveau corps apparaît à 1,50 mètre autour du phylactère.
+>
+> **Incantation.** La liche est un lanceur de sorts de niveau 18. Sa caractéristique d'incantation est l'Intelligence (jet de sauvegarde contre ses sorts DD 20, +12 au toucher pour les attaques avec un sort). La liche a préparé les sorts de magicien suivants :
+>
+> *Sorts mineurs (à volonté)* : [main de mage](https://www.aidedd.org/dnd/sorts.php?vf=main-de-mage), [prestidigitation](https://www.aidedd.org/dnd/sorts.php?vf=prestidigitation), [rayon de givre](https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre)  
+> *Niveau 1 (4 emplacements)* : [détection de la magie](https://www.aidedd.org/dnd/sorts.php?vf=detection-de-la-magie), [projectile magique](https://www.aidedd.org/dnd/sorts.php?vf=projectile-magique), [bouclier](https://www.aidedd.org/dnd/sorts.php?vf=bouclier), [vague tonnante](https://www.aidedd.org/dnd/sorts.php?vf=vague-tonnante)  
+> *Niveau 2 (3 emplacements)* : [détection des pensées](https://www.aidedd.org/dnd/sorts.php?vf=detection-des-pensees), [invisibilité](https://www.aidedd.org/dnd/sorts.php?vf=invisibilite), [flèche acide de Melf](https://www.aidedd.org/dnd/sorts.php?vf=fleche-acide-de-melf), [image miroir](https://www.aidedd.org/dnd/sorts.php?vf=image-miroir)  
+> *Niveau 3 (3 emplacements)* : [animation des morts](https://www.aidedd.org/dnd/sorts.php?vf=animation-des-morts), [contresort](https://www.aidedd.org/dnd/sorts.php?vf=contresort), [dissipation de la magie](https://www.aidedd.org/dnd/sorts.php?vf=dissipation-de-la-magie), [boule de feu](https://www.aidedd.org/dnd/sorts.php?vf=boule-de-feu)  
+> *Niveau 4 (3 emplacements)* : [flétrissement](https://www.aidedd.org/dnd/sorts.php?vf=fletrissement), [porte dimensionnelle](https://www.aidedd.org/dnd/sorts.php?vf=porte-dimensionnelle)  
+> *Niveau 5 (3 emplacements)* : [brume mortelle](https://www.aidedd.org/dnd/sorts.php?vf=brume-mortelle), [scrutation](https://www.aidedd.org/dnd/sorts.php?vf=scrutation)  
+> *Niveau 6 (1 emplacement)* : [désintégration](https://www.aidedd.org/dnd/sorts.php?vf=desintegration), [globe d'invulnérabilité](https://www.aidedd.org/dnd/sorts.php?vf=globe-d-invulnerabilite)  
+> *Niveau 7 (1 emplacement)* : [doigt de mort](https://www.aidedd.org/dnd/sorts.php?vf=doigt-de-mort), [changement de plan](https://www.aidedd.org/dnd/sorts.php?vf=changement-de-plan)  
+> *Niveau 8 (1 emplacement)* : [domination de monstre](https://www.aidedd.org/dnd/sorts.php?vf=domination-de-monstre), [mot de pouvoir étourdissant](https://www.aidedd.org/dnd/sorts.php?vf=mot-de-pouvoir-etourdissant)  
+> *Niveau 9 (1 emplacement)* : [mot de pouvoir mortel](https://www.aidedd.org/dnd/sorts.php?vf=mot-de-pouvoir-mortel)  
+> **Résistance au renvoi.** La liche a un avantage aux jets de sauvegarde pour résister aux effets de renvoi des morts-vivants.
+>
+> ### ACTIONS
+> **Contact paralysant.** Attaque au corps à corps avec un sort : +12 au toucher, allonge 1,50 m, une créature. Touché : 10 (3d6) dégâts de froid. La cible doit réussir un jet de sauvegarde de Constitution DD 18 ou être paralysée pendant 1 minute. La cible peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à cet effet de paralysie qui l'affecte si elle le réussit.
+> 
+> ### ACTIONS LÉGENDAIRES
+> La liche peut effectuer 3 actions légendaires, en choisissant parmi les options suivantes. Une seule action légendaire peut être utilisée à la fois, et seulement à la fin du tour d'une autre créature. La liche récupère les actions légendaires dépensées au début de son tour.
+>
+> **Sort mineur.** La liche lance un sort mineur.
+>
+> **Contact paralysant (coûte 2 actions).** La liche utilise son Contact paralysant.
+> 
+> **Regard effrayant (coûte 2 actions).** La liche fixe du regard une créature qu'elle peut voir dans un rayon de 3 mètres autour d'elle. La cible doit réussir un jet de sauvegarde de Sagesse DD 18 contre la magie ou être effrayée pendant 1 minute. La cible effrayée peut retenter son jet de sauvegarde à la fin de chacun de ses tours, mettant fin à l'effet qui l'affecte en cas de réussite. Si le jet de sauvegarde de la cible est une réussite, ou si l'effet se termine pour elle, la cible est immunisée au regard de la liche pour les prochaines 24 heures.
+> 
+> **Perturbation de la vie (coûte 3 actions).** Toute créature non morte-vivante située dans un rayon de 6 mètres autour de la liche doit effectuer un jet de sauvegarde de Constitution DD 18 contre la magie, subissant 21 (6d6) dégâts nécrotiques en cas d'échec, ou la moitié de ces dégâts en cas de réussite.

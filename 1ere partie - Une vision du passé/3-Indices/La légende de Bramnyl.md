@@ -1,5 +1,7 @@
-Cet ancien prêtre de Moradin connu pour ses prêches, sa compassion et sa bienveillance vécu il y a plus de deux millénaires dans le clan des Nains des Montagnes. 
-Il perdit la tête lorsque son jeune frère Ermnir perdit la vit dans un combat qui opposait son clan à une troupe de Drow
+# La légende de Bramnyl
+
+Cet ancien prêtre de Moradin connu pour ses prêches, sa compassion et sa bienveillance, vécu il y a plus de deux millénaires dans le clan des Nains des Montagnes. 
+Il perdit la tête lorsque son jeune frère Ermnir perdit la vie dans un combat qui opposait son clan à une troupe de Drow
 
 On raconte que son désespoir était si grand et ses appels répété à Moradin si vain, qu'il fit appel à de la magie nécrotique et ramena son frère sous la forme d'un cadavre décharné.
 Les prêtres de Moradin découvrant ceci l'ont condamné à l'exil.

@@ -8,13 +8,25 @@ En sortie de la maison de Rhaser Dadar, le boyau s'étend sur 20 mètres à la g
 
 Les aventuriers sont en surplomb de ce boyau. L'architecture change aussi.
 
-- [connaissance de la pierre] (**DD15**) : l'architecture est naine ! Et elle ne date pas d'hier.
 
-- [connaissance architecture] (**DD20**) : il s'agit d'un aqueduc nain, l'architecture remonte à un millénaire !
+> #### Jet de compétence
+> ___
+> - **compétence:** Histoire
+> - **valeure:** 20
+> ___
+> - ***succès***: l'architecture est naine ! Et elle ne date pas d'hier. Il s'agit d'un aqueduc nain, l'architecture remonte à un millénaire !
+> - ***échec***: l'architecture est naine ! Et elle ne date pas d'hier.
+
 
 A gauche, les aventuriers peuvent distinguer la lumière du jour. Sur la droite, l'aqueduc s'enfonce sous la ville.
 
--   [Connaissance géographie] (**DD10**) : l'eau qui coule au fond n'est autre que celle de la Sinueuse, la rivière qui passe sous Everton.
+> #### Jet de caractéristique
+> ___
+> - **compétence:** Intelligence
+> - **valeure:** 10
+> ___
+> - ***succès***: l'eau qui coule au fond n'est autre que celle de la Sinueuse, la rivière qui passe sous Everton.
+> - ***échec***: de l'eau! de l'eau!
 
 Sur la gauche, l'aqueduc est clos par d'épais barreau métallique empêchant le passage.
 
@@ -38,28 +50,65 @@ Les nains du groupe auront un sentiment de bienêtre, voire de plénitude.  Le l
 
 La pièce est constituée d'un banc, d’une table en pierre. Les reste d'un âtre sont visible dans un coin de la pièce. De la couche seul le socle en pierre est encore présent.
 
--   [Fouille] (**DD25**) : sous le lit, une pierre se détache révélant les restes de vieux parchemins ainsi qu'un anneau.
--   [Art de la magie] (**DD25**) : L'anneau est un anneau de protection +1. Cet anneau renforce l'armure du porteur et octroie un +1 CA.
+\page
+
+> #### Jet de compétence
+> ___
+> - **compétence:** Investigation
+> - **valeure:** 18
+> ___
+> - ***succès***: sous le lit, une pierre se détache révélant les restes de vieux parchemins ainsi qu'un anneau.
+> - ***échec***: c'est vieux, c'est sale, je ne met pas mes doigts la dessous!
+
+- *Identification* : L'anneau est un anneau de protection +1. Cet anneau renforce l'armure du porteur et octroie un +1 CA. <div style="color:#FF0060">Lien: repos court requis</div>
 
 Lorsque les aventuriers quitteront cette pièce, ils entreront dans une salle circulaire, le sol est pavé de ces pierres que seule les nains savent faire (grosse, massive). Sur le contour, des maisons naines, en face, une sorte de temple, ou un palais. Au centre, un puit dont on ne peut distinguer le fond.
 
--   [Connaissance de la pierre] (**DD20**) : le monument qui se dresse devant eux est un ancien temple. Les sculptures sont à l'effigie de Moradin. On retrouve un nain glorieux maniant un marteau devant une enclume.
+> #### Jet de compétence
+> ___
+> - **compétence:** Histoire
+> - **valeure:** 20
+> - **special** Connaissance de la pierre : succes automatique
+> ___
+> - ***succès***: le monument qui se dresse devant eux est un ancien temple. Les sculptures sont à l'effigie de Moradin. On retrouve un nain glorieux maniant un marteau devant une enclume.
+> - ***échec***: Belle scuplture!
 
 ![Moradin](../../../Resources/Moradin.png)
 
 Sur le sol de la place, des roches et rocher sont éparpillés, certains de ces rocher offre un couverture suffisante en cas d'attaque. Au plafond, un matière reflétant la lumière permet un rayonnement suffisant d'une torche pour éclairer l'ensemble de la place. Les pas de porte et les bord de fenêtres des demeures sont dans la pénombre.
 
--   [Détection] (**DD20 si le personnage est nyctalope**): un arbalétrier est caché dans une des maisons
+> #### Jet de compétence
+> ___
+> - **compétence:** Perception
+> - **valeure:** 20
+> - **special** nyctalope : succes automatique
+> ___
+> - ***succès***: un arbalétrier est caché dans une des maisons
+> - ***échec***: c'est calme!
 
-Bandit : (25px)
+\page 
 
-CA : 12 (armure de cuir)
-
-PV : 12
-
-Arbalète légère : +3 Attaque - 1d8+1
-
-1 Fléchette empoisonnée - Poison Drow (**DD13**) perte de connaissance sur 1 minute.
+___
+> ## Bandit
+>*Humanoïde (toute race) de taille M, tout alignement non loyal*
+> ___
+> - **Classe d'armure** 12 (armure de cuir)
+> - **Points de vie** 11 (2d8 + 2)
+> - **Vitesse** 9 m
+>___
+>|FOR|DEX|CON|INT|SAG|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|11 (+0)|12 (+1)|12 (+1)|10 (+0)|10 (+0)|10 (+0)|
+>___
+> - **Sens** Perception passive 10
+> - **Langues** une langue au choix (généralement le commun)
+> - **Puissance** 1/8 (25 PX)
+> ___
+> ### Actions
+> **Cimeterre.** *Attaque au corps à corps avec une arme* : +3 au toucher, allonge 1,50 m, une cible. *Touché* : 4 (1d6 + 1) dégâts tranchants.
+> 
+> **Arbalète légère.** *Attaque à distance avec une arme* : +3 au toucher, portée 24/96 m, une cible. *Touché* : 5 (1d8 + 1) dégâts perforants.  
+> 1 Fléchette empoisonnée - Poison Drow (**DD13**) perte de connaissance sur 1 minute.
 
 L'Homme possède une amulette avec un crâne et une faucille (le symbole de Nerull). Elle n'est pas magique.
 
@@ -83,125 +132,97 @@ Dans le coffre, on trouvera une paire de bracelets d'armure (+1), octroyant +1 �
 
 Le couloir mène à une porte de bois. Plus les aventuriers s'en approche, plus ils s’en approchent plus ils peuvent entendre des murmures comme des incantations.
 
+\page
+
 ### Le temple
 
 L'entrée de la salle est fermée par une porte. Celle-ci n'est pas fermée à clé.
 
--   **DD10** en Discrétion pour l'ouvrir sans se faire remarquer.
--   **DD16** en force pour l'enfoncer
+- **DD10** en Discrétion pour l'ouvrir sans se faire remarquer.
+- **DD16** en force pour l'enfoncer
 
 La salle est composée de 6 piliers, massif. Ils donnent l'impression de soutenir l'étage supérieur. Sur la gauche de l'entré, une statue géante d'un nain en armure tenant un marteau se dresse fièrement pointant son regard vers le fond de la pièce.  Sur la droite, six bancs fond face à un autel. Des statue de nain en toge tenant un sceau entre leur main (**DD15 en religion** ce sont des prêtres de Moradin. Ils tiennent une représentation sculpté d'un catalyseur divin de leur ordre).
 
 Dans le fond un personnage réalise un sermon à deux personnes encapuchonnées.
+___
+> ## Prêtre
+> *Humanoïde (toute race) de taille M, tout alignement*
+> ___
+> - **Classe d'armure** 13 (chemise de mailles)
+> - **Points de vie** 27 (5d8 + 5)
+> - **Vitesse** 9m
+> ___
+> |FOR|DEX|CON|INT|SAG|CHA|
+> |:--:|:--:|:--:|:--:|:--:|:--:|
+> |10 (+0)|10 (+0)|12 (+1)|13 (+1)|16 (+3)|13 (+1)|
+> ___
+> - **Compétences** Médecine +7, Persuasion +3, Religion +5
+> - **Sens** Perception passive 13
+> - **Langues** deux langues au choix
+> - **Puissance** 2 (450 PX)
+> ___
+> **Distinction divine.** Par une action bonus, un prêtre peut dépenser un emplacement de sort pour que ses attaques au corps à corps avec une arme fassent magiquement 10 (3d6) dégâts radiants supplémentaires à une cible qu'il touche. Cet avantage se poursuit jusqu'à la fin du tour. Si le prêtre dépense un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires augmentent de 1d6 pour chaque niveau au-dessus du 1er.
+>
+> **Incantation.** Le prêtre est un lanceur de sorts de niveau 5. Sa caractéristique d'incantation est la Sagesse (jet de sauvegarde contre ses sorts DD 13, +5 au toucher pour les attaques avec un sort). Le prêtre a préparé les sorts de clerc suivants :
+>
+> Sorts mineurs (à volonté) : flamme sacrée, lumière, thaumaturgie
+> Niveau 1 (4 emplacements) : éclair traçant, sanctuaire, soins
+> Niveau 2 (3 emplacements) : arme spirituelle, restauration partielle
+> Niveau 3 (2 emplacements) : dissipation de la magie, esprits gardiens
+> ### ACTIONS
+> **Masse d'armes.** *Attaque au corps à corps avec une arme* : +2 au toucher, allonge 1,50 m, une cible. *Touché* : 3 (1d6) dégâts contondants.
 
--   _Prêtre de Nerull_ (FP3)
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |   
-| -- | -- | -- | -- | -- | -- | -- | --| -- | -- | -- | -- | -- |   
-| For | 6 | -2 |  | lvl | 5 |  |  | lvl | 0 | 1 | 2 | 3 |  
-| Dex | 10 | 0 |  |  |  |  |  | nb sort| 5 | 4 | 3 | 2 |  
-| Con | 12 | 1 |  | PV | 28 |  |  |  |  |  |  |  |  
-| Int | 11 | 0 |  |  |  |  |  |  |  |  |  |  |  
-| Sag | 20 | 5 |  | CA | 16 |  |  | init | 0 |  |  |  |   
-| Cha | 17 | 3 |  |  |  |  |  |  |  |  |  |  |   
-|  |  |  |  |  |  |  |  |  |  |  |  |  |   
-|  | tot | base | modif |  |  |  |  |  |  |  |  |  |   
-| Bba | 3 |  |  |  |  |  |  |  |  |  |  |  |   
-| Vigueur | 5 | 4 | 1 |  |  |  |  |  |  |  |  |  |   
-| Reflex | 1 | 1 | 0 |  |  |  |  |  |  |  |  |  |   
-| Volonté | 9 | 4 | 5 |  |  |  |  |  |  |  |  |  |   
-
-_Dons_
-
--   cast sans composante matérielle
--   +1 jet de save contre évocation
-
-_Liste de sorts :_ DD = 10 + niveau du sort + modif sagesse
-
-| Niveau | Nom | Description | DD |
-|--|--|--|--|  
-| 1 | Bouclier de la foi | +2 CA pendant 5min | |
-| 1 | Convocation de mort-vivants | Invocation de 1 squelette -> 10pv/1d4+1/CA 13 | |
-| 1 | Injonction | le PJ obéît a un mot | 16 / Volonté |
-| 1 | Soin léger | 1d8+3 pv rendu | |
-| 2 | Endurance de l'ours | +4 Constitution pendant 5min => +10pv | |
-| 2 | Immobilisation | Personne ciblé figée sur place | 17 / volonté |
-| 2 | Profanation | +1 dmg, Att, save et pv au mort vivant dans zone 6m | |
-| 3 | Convocation de mort-vivants | Invocation de 4 squelettes -> 10pv/1d4+1/CA 13 | |
-| 3 | Poigne d'Orcrus | 1d3/round + paralysie | 18 / Vigueur |
-
-_Loots_
-
+---
+**Loots**
 - 1 collier avec un os en pendentif (Focaliseur divin)
 - 1 tunique en lin déchirée
-- 1 cape avec capuche en laine ayant une boucle de fermeture à l'effigie de :
-    -   [Connaissance religion] (DD10) -> Nerull
-         Si échec il s'agit d'un crane et d'une faucille
+- 1 cape avec capuche en laine ayant une boucle de fermeture mêlant un crane et d'une faucille
 - 1 armure d'écaille
 - 1 baguette fate de bois d'ébène, au touché il s'en dégage un sentiment de noirceur pure.
-  -  [Détection de la magie] (3 ieme round DD 15) -> baguette de ténèbres.
+  -  *Identification* -> [baguette de peur](https://www.aidedd.org/dnd/om.php?vf=baguette-de-peur).
+---
 
--   _Fanatique de Nerull_ (FP 1/2) *2
+\page
+___
+> ## Fanatique de Nérull
+>*Si j'existe, c'est d'être fan*
+> ___
+> - **Classe d'armure** 12
+> - **Point de vie** 9 (2d8)
+> - **Vitesse** 9m.
+>___
+>|FOR|DEX|CON|INT|SAG|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|11 (+0)|12 (+1)|10 (+0)|10 (0)|11 (+0)|10 (+0)|
+>___
+> - **Compétences** Religion +2, Tromperie +2
+> - **Senses** Perception passive 10
+> - **Puissance** 1/8 (25 XP)
+> ___
+> ***Sombre dévotion.*** Le fanatique a un avantage aux jets de sauvegarde pour ne pas être charmé ou effrayé.  
+> ### Actions  
+> ***Cimeterre.*** *Attaque au corps à corps avec une arme* : +3 au toucher, allonge 1,50 m, une créature. *Touché* : 4 (1d6 + 1) dégâts tranchants.  
+> ***Arbalette.*** *Attaque à distance* : +2 au touché, une créature. *Touché* : 6 (1d8 +2)
 
-|  |  |  |  |  |  |
-| -- | -- | -- | -- | -- | -- | 
-| For | 11 | 0 |  | lvl | 3 |  
-| Dex | 16 | 3 |  |  |  |  
-| Con | 12 | 1 |  | PV | 24 |  
-| Int | 10 | 0 |  |  |  |  
-| Sag | 13 | 1 |  | CA | 13 |   
-| Cha | 14 | 2 |  |  |  |   
-|  |  |  |  |  |  |   
-|  | tot | base | modif |  |  |   
-| Bba | 3 |  |  |  |  |   
-| Vigueur | 5 | 4 | 1 |  |  |   
-| Reflex | 1 | 1 | 0 |  |  |   
-| Volonté | 9 | 4 | 5 |  |  | 
+---
+**Loots**
 
-Att -> +2
-
-Dague -> 1d4 (19/20 x2)
-
-_Loots_
-
--  1 dague stylisée : sur la garde un symbole (crane + faucille), sur la poignée des gemmes semi-précieuse.
--  1 cape avec capuche en laine
+- 1 Cimetere stylisée : sur la garde un symbole (crane + faucille), sur la poignée des gemmes semi-précieuse.
+- 1 cape avec capuche en laine
 
 Fouille de la salle:
 
--   L'autel est délabré, les symboles de Moradin sont à peine visibles, probablement effacé par les membre du culte (de Nérull si les PJ le savent).
--   Les statues présentent un socle avec une poignée. La statue de droite renferme :
+- L'autel est délabré, les symboles de Moradin sont à peine visibles, probablement effacé par les membre du culte (de Nérull si les PJ le savent).
+- Les statues présentent un socle avec une poignée. La statue de droite renferme un câlice en pierre sculpté, sertie de pierre semi-précieuse. Sur le pourtour sont gravé des runes en langue Naine :  
+  *Sans le clan point de nain, sans le fer point d'acier*.
 
--   Un câlice en pierre sculpté, sertie de pierre semi-précieuse. Sur le pourtour sont gravé des runes en langue Naine :  _Sans le clan point de nain, sans le fer point d'acier_.
 
-_Ce dicton se réfère à l’importance du clan, de la famille et de la communauté dans la vie d’un nain. Il enseigne que sans l’appui de son clan, le nain ne peut devenir aussi fort et aussi solide que l’acier_
+<div class='descriptive'>
+Ce dicton se réfère à l’importance du clan, de la famille et de la communauté dans la vie d’un nain. Il enseigne que sans l’appui de son clan, le nain ne peut devenir aussi fort et aussi solide que l’acier
+</div>
 
--   Un livre dont la couverture représente le symbole de Moradin. Les pages de ce livre partent en lambeau au touché.
-
--   La statue de gauche renferme :
-
--   Des restes de panier en osier.
-
--   La statue du fond est un simple trompe l'œil.
+- Un livre dont la couverture représente le symbole de Moradin. Les pages de ce livre partent en lambeau au touché.
+- La statue de gauche renferme des restes de panier en osier.
+- La statue du fond est un simple trompe l'œil.
 
 Les symboles sont l'éléments clés de la quête. Il faudra les ramener au baron DeathHammer.
-
-|**Rencontres\FP**|**Bonus**|**1/3**|**1/2**|**1**|**2**|**3**|**3**|**Ulrik**|**3**|**Wilfrid**|**3**|**Laegoline**|  
-|--|--|--|--|--|--|--|--|--|--|--|--|--|  
-|Alarme|50||||||3|50|3|50|3|50|
-|Tâche de sang|50||||||3|50|3|50|3|50|
-|Mur maison|50||||||3|50|3|50|3|50|
-|Reconnaissance Moradin|50||||||3|50|3|50|3|50|
-|Reconnaissance Nerull|50||||||3|50|3|50|3|50|
-|Embuscade||1|||||3|33|3|33|3|33|
-|Prêtre de nerull||||||1|3|300|3|300|3|300|
-|Fanatique|||||2||3|400|3|400|3|400|
-|Lettre de menace|20||||||3|20|3|20|3|20|
-|Squelette inv||5|||||3|167|3|167|3|167|
-|**Totaux**|270|6|0|0|2|1||1170||1170||1170|
-||||||||||||||
-|Start XP|4850|Start lvl|3||||||||||
-|End XP|6020|End lvl|4||||||||||
-
-
-**===>PASSAGE DE NIVEAU<===**
