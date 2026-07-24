@@ -22,7 +22,7 @@ Le mausolée se situe sur une colline. Le chêne qui en est son symbole domine l
 
 Les bandits n'ont pas chômé, ils ont établi une ligne de défense autour du mausolée. 
 
-[Extérieur](images/Mausolee_chêne_tordu_ext.player.png)
+![Extérieur](images/Carte/Mausolee_chêne_tordu_ext.player.png)
 <details> 
 	<summary> Carte Maitre du jeu </summary>   
 	<img src="images/Mausolee_chêne_tordu_ext.png" alt="Carte de l'extérieur du mausolée vue MJ" />  
@@ -123,7 +123,7 @@ A l'intérieur de la muraille, les aventuriers devront une dernière fois être 
 
 ## Dans le mausolée
 
-[carte](images/Mausolee_chêne_tordu_int.png)
+![carte](images/Carte/Mausolee_chêne_tordu_int.png)
 
 En entrant dans le mausolée, les aventuriers seront face à deux énormes statues de rois nordique dont le noom a été éffacé par le temps et oublié de tous. Le sol et les murs sont fait de marbre blanc. Quatre passage s'offrent aux aventuriers:
 - deux longes les mur du mausolée
@@ -186,7 +186,7 @@ Une fois les cherubins mis en place, le soleil doré s'anime, créant un escalie
 
 ### Les catacombes
 
-[les catacombes](images/Mausolee_chêne_tordu_catacombe.player.png)
+![les catacombes](images/Carte/Mausolee_chêne_tordu_catacombe.player.png)
 
 La première partie du sous-sol est une succession de tunel aménagé où se succède plusieurs alcove dans lesquelles sont entreposés des reste squeletique. Certaines alcoves ont une plaque d'identification permettant de connaitre le nom du propriétaire de la tombe.
 
