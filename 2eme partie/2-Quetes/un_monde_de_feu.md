@@ -59,7 +59,7 @@ Il est important que les deux autres subsistes.
 
 
 Nos aventuriers pourront voir la salle s'ils le demandent. Verwyn reprendra l'apparence de Bestra avant de les accompagner et Milina lancera [Détection du bien et du mal](https://www.aidedd.org/dnd/sorts.php?vf=detection-du-mal-et-du-bien).
-*Deprehensio boni et mali*
+>*Deprehensio boni et mali*
 
 \page
 <div class='pageNumber auto'></div>
