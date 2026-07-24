@@ -2,7 +2,7 @@
 
 # Le Refuge Perdu
 
-[Carte](images/Carte/Refuge_Perdu.png)
+![Carte](images/Carte/Refuge_Perdu.png)
 
 ## Les défenses
 
