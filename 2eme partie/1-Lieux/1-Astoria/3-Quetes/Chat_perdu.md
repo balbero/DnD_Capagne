@@ -113,7 +113,7 @@ Une autre possibilité est de grimper par un des accès disponibles.
 Si les aventuriers décident de trouver un moyen plus simple, il leur faudra chercher dans les rues avoisinantes.  
 Après quelques minutes, ils trouveront une échelle posée contre une façade aveugle permettant d'acceder au toit.
 Voici le chemin qu'il leur faudra alors parcourir sur les toits:  
-[Carte Joueur](images/carte_toit_joueur.png)  
+![Carte Joueur](images/carte_toit_joueur.png)  
 
 <details> 
 	<summary> Carte Maitre du jeu </summary>   
