@@ -186,6 +186,45 @@ Proposez ici un jet d'investigation.
  - **échec:** Rossignol fait remarquer aux aventuriers que c'est un beau dessin mais qu'aucune porte n'est visible.
 }} 
 
+Le déblaiement révélera une porte au sol dont les deux battants sont fermés par un rubis. [Rossignol](#rossignol) pourra ajouter:
+
+{{descriptive
+Il faut attendre que le soleil s'aligne avec la statue.
+}}
+
+Après quelques minutes, deux faisceaux se forment et viennent frapper le rubis. Pendant un instant rien ne se passe. Puis un tremblement de terre et des bruits de mécanisme se font entendre. Les battants de la porte s'ouvrent alors dans grondement, laissant apparaître un escalier qui descent dans les profondeurs de la terre. 
+
+[Rossignol](#rossignol) invitera les aventuriers à descendre.
+
+\page
+## Le temple oublié
+
+### La vie des Az'teck
+Lorsque les aventuriers arrivent en bas de l'escalier, une lourde dalle de pierre viendra sceller l'escalier et un bruit sourd annoncera un effondrement.  
+Les aventuriers arrivent dans une salle en pierre, composée de six alcoves. Au centre de la salle, sur un promontoire, se trouve un dôme, dans lequel plusieurs scenes sont dépeintes.
+
+{{note
+Sous le dôme, on peut trouver un scene de chasse, une scene d'agriculture, une scene de prière, une scène représentant une classe, une scène de guerre et une scène rassemblant des personnes autour d'un grand feu. Pour cette dernière scène il est difficile de dire s'il s'agit d'une exécution ou d'un enterrement.  
+Dans chacune des alcoves, une des scène précédente est représenté, mais l'un des personnages n'est pas dans la bonne position.  
+Au dessus des alcôves, les aventuriers trouveront un symbole:
+- un arc pour la scene de chasse
+- une faux pour la scene d'agriculture
+- un demi-soleil et une demie lune pour la scène de prière
+- ce qui peut s'apparenter à un livre pour la scène de classe
+- une épée pour la scène de guerre
+- un masque pour la dernière scène 
+}}
+
+Au delà du dôme, au fond de la salle, dans une arche taillée dans un unique bloc de pierre, se trouve la seule sortie visible.  
+Au dessus de la porte, une peinture représentant une succession de symboles: un demi soleil et une demie lune, un livre, une faux, un arc, une épée et un masque.  
+{{note
+Les aventuriers doivent remettre les statues dans l'ordre des symboles. Tout échec provoquera le jet d'une [fléchette empoisonnée](#flechette-empoisonnee). Lorsque les statues sont remisent en place, dans l'ordre, le promontoire sous le dôme central s'ouvre, laissant apparaître un tiroir contenant une clé.
+}}
+La porte possède un trou de serrure qu'un jet de perception DD15 pourra révéler, elle peut donc être crochetée par un voleur possédant ses outils.  
+Les gonds de la porte sont eux aussi visible, ils possèdent une CA de 12 et 20 points de vies. Si la porte est dégondée, la porte tombera dans l'intérieur de la salle et tous personnages dans un rayon de 1m50 autour de la porte recevra 1d4 de dégâts provoqués par les débris.
+
+
+
 \page
 {{wide
 # Annexes
