@@ -416,7 +416,7 @@ L'aventurier se réveille, au milieu d'une auberge.
 # La révolution du peuple
 
 {{wide
-![Place Valanchard](Images/place_valanchard.png)
+![Place Valanchard](./Images/place_valanchard.png)
 }}
 
 ## Place de la liberté
@@ -426,15 +426,49 @@ Dehors il pleut. La cours est jonchée de corps, plus la plupart des paysans ré
 Par la fenêtre, on distingue le bosquet centra et au loins les gardes personnel de l'empereur.
 }}
 
-Les aventuriers reprennent conscience dans le corps de Nain, d'Elf et ou d'Humain. Avec eux [Merle](#merle), le barde de la compagnie. Accroupi, ils leur chuchotera:
+Les aventuriers reprennent conscience dans le corps de Nain, d'Elf et ou d'Humain. Avec eux [Merle](#merle), un barde des sentinels abandonné qui accompagne les aventuriers. Accroupi, ils leur chuchotera:
 
 {{descriptive
-Enfin réveillé! Je doute que la guerre ne soit finie. Ça y est le vautour envoie ses [Zélés](#les-zélés).
+Enfin réveillé! Je doute que la guerre ne soit finie.  
+Ça y est le vautour envoie ses [Zélés](#les-zélés).
 }}
 
-En jetant un coups d'oeuil au dehors, un aventurier pourra voir quatre garde lourdement armés descendre les marches d'un parvis situé devant une tour.
+En jetant un coups d'oeuil au dehors, un aventurier pourra voir quatre gardes lourdement armés descendre les marches d'un parvis situé devant une tour.
 
+Par les gravats, on peut apercevoir des paysans armé de fourche et autres armes de fortunes ainsi que quelques soldats ayant rejoint leur cause, arriver en nombre sur la place.  
+Alors que les deux camps semblent s'observer une femme au long cheveux noir muni de deux épées arrive par le sud.  
+[Merle](#merle) ajoutera alors:  
+{{descriptive
+Ha la voilà! Que le spectacle commence!
+}}
 
+Les aventuriers peuvent décider d'agir ou de simplement regarder.  
+En agissant, ils vont aider la femme au sabre en occupant les gardes.  
+En regardant, ils l'observeront réaliser une danse mortelle. Chaque coups est placer de manière chirurgicale, chaque esquive est réalisée dans une fluidité surhumaine.  
+Une fois les quatre gardes abattu, trois autres sortiront de la tour, la femme aux sabres laissera les gardes aux aventuriers.
+
+{{monster,frame
+## Garde Zélé
+*Créature Moyenne, loyal-mauvais*
+___
+**Classe d'armure** :: 16 (chain mail, shield)
+**Points de vie**   :: 103(7d20 + 7)
+**Vitesse**         :: 9m.
+___
+|  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)|14 (+2)|16 (+3)|6  (-2)|6  (-2)|14 (+2)|
+___
+**Compétences**       :: Intimidation +3, Perception +5
+**Sens**              :: vision aveugle 9m, Perception passive 13
+**Langue**            :: Commun
+**Dangerosité**       :: 3 (700px)
+___
+__*Robustesse de la Non-vie*__ Si les dégâts font tomber le Zélé à 0pv, il doit effectuer un jet de sauvegarde de Constitution dont le DD est égal à 5 + les dégats subis, à moins qu'il ne s'agisse de dégâts radiants ou d'un coup critique. En cas de réussite, il tombe à 1pv au lieu de 0.
+### Actions
+__*Attaques multiples.*__ Le Zélé effectue deux attaques au corps à corps.  
+__*Hache d'armes.*__ *Attaque d'arme au corps à corps :* +4 pour toucher, allonge 1.5m, un cible. *Touché :* 6(1d8 +2) dégâts tranchants ou 7 (1d10 + 2) de dégâts tranchants si utilisé à deux mains.
+}}
 
 \page
 {{wide
